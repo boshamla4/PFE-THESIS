@@ -1,0 +1,52 @@
+# Fichiers de travail et rendus de contrôle
+/tmp/
+
+# Compilation LaTeX ; les livrables PDF restent dans output/pdf/
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+/thesis/*.pdf
+
+# Environnements, dépendances et réglages locaux
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+.codex/
+.agents/
+
+# Identifiants et clés privés
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+secrets*.json
+
+# Fichiers temporaires de Windows, macOS et des éditeurs
+Thumbs.db
+Desktop.ini
+.DS_Store
+~$*
+*.swp
+*.swo
+*~

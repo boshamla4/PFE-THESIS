@@ -1,0 +1,695 @@
+{
+  "date": "2026-09-23",
+  "call_number": 2,
+  "parameters": {
+    "seeds": [
+      "10.1007/s11250-023-03776-0",
+      "10.3382/japr/pfx005",
+      "10.2141/jpsa.0200026"
+    ],
+    "direction": "in",
+    "depth": 1,
+    "include_intent": true,
+    "include_snippets": true,
+    "max_edges": 45
+  },
+  "seeds": [
+    "10.1007/s11250-023-03776-0",
+    "10.3382/japr/pfx005",
+    "10.2141/jpsa.0200026"
+  ],
+  "direction": "in",
+  "depth": 1,
+  "edge_count": 45,
+  "node_count": 46,
+  "truncated": true,
+  "seed_coverage": {
+    "10.1007/s11250-023-03776-0": 4,
+    "10.3382/japr/pfx005": 21,
+    "10.2141/jpsa.0200026": 21
+  },
+  "low_coverage_seeds": [
+    "10.1007/s11250-023-03776-0"
+  ],
+  "edges": [
+    {
+      "s": "10.1016/j.animal.2026.101822",
+      "t": "10.1007/s11250-023-03776-0",
+      "d": 1
+    },
+    {
+      "s": "10.1016/j.rvsc.2024.105294",
+      "t": "10.1007/s11250-023-03776-0",
+      "d": 1
+    },
+    {
+      "s": "10.3390/ani15030308",
+      "t": "10.1007/s11250-023-03776-0",
+      "d": 1,
+      "type": [
+        "mentioning"
+      ],
+      "section": [
+        "introduction"
+      ],
+      "snippets": [
+        "Olive leaves (from O. europaea tree; Oleaceae family) and their extracts positively affect performance in hens [ 15 , 16 ] and broilers [ 17 , 18 ]. Bay laurel ( L. nobilis ) is an aromatic and medicinal plant, which belongs to the Laureacea family, and it is characterised by anti-inflammatory and antioxidant activities [ 12 , 19 ]."
+      ]
+    },
+    {
+      "s": "10.47115/bsagriculture.1862641",
+      "t": "10.1007/s11250-023-03776-0",
+      "d": 1
+    },
+    {
+      "s": "10.1111/jpn.13611",
+      "t": "10.2141/jpsa.0200026",
+      "d": 1,
+      "type": [
+        "mentioning"
+      ],
+      "section": [
+        "discussion"
+      ],
+      "snippets": [
+        "Also, Foroutankhah et al ( 2019 ) found that feeding broilers on diets containing 5 and 10 g dried Marigold powder/kg of diet have no significant impact on growth outcome without any significant effect on feed consumption during growth experiment. More recently, Pirman et al ( 2021 ) showed that body weight at the end of the experiment on day 39 was 2175 g, 2356 g and 2416 g, for control, Olive extract and Marigold extract, respectively, indicating that the diet had an insignificant effect on the weight gain.",
+        "These notes were propped by the restoration of plasma renal biomarkers and histopathological findings in renal tissue (Verma et al, 2016 ). While the only higher numerical value in the mass of liver and malondialdehyde concentration obtained by the marigold extract group as compared to the other groups (Pirman et al, 2021 )."
+      ]
+    },
+    {
+      "s": "10.3390/life13061287",
+      "t": "10.2141/jpsa.0200026",
+      "d": 1,
+      "type": [
+        "mentioning"
+      ],
+      "section": [
+        "availability and feasibility of replacing antibiotics",
+        "herbal feed additives"
+      ],
+      "snippets": [
+        "Some of the possible alternatives, such as sumac berry, would take some years to become available and a large area of dedicated production land. Others, such as supplementation with marigold flower leaves extract, are efficacious in terms of health improvements [ 62 ] but would require a major new industry to be developed. Some beneficial additives, such as residues from olive oil production, are essentially byproducts and are already produced on a large scale [ 125 ].",
+        "The phenolic compounds of olive oil help by positively regulating the expression of genes involved in maintaining tight junctions between intestinal cells, modulating the oxidative state of the intestinal epithelial layer, inflammatory and immune response, and maintaining the integrity of the intestinal barrier [ 60 , 61 ]. In addition, phenolic compounds extracted from olive leaves may be beneficial for broilers as antioxidants and through their antimicrobial activity against intestinal pathogenic bacteria [ 24 , 62 ]. Care has to be taken as leaves can have a high copper content from copper fungicides, which in the long term can damage the liver of consumers."
+      ]
+    },
+    {
+      "s": "10.3390/agriculture14010064",
+      "t": "10.2141/jpsa.0200026",
+      "d": 1,
+      "type": [
+        "mentioning",
+        "supporting"
+      ],
+      "section": [
+        "discussion",
+        "methods"
+      ],
+      "snippets": [
+        "Organs (heart, liver, pancreas, proventriculus, gizzard, and intestine) and samples of different parts of intestine contents from each chicken were collected. Tissue samples of individual parts of the gastrointestinal tract (small intestine: duodenum, jejunum and ileum and caecum) were taken for histological measurements as described by Pirman et al [41] .",
+        "Our results also confirm that the HP/LA groups had the lowest BW of chickens at the end of the experiment under both environmental conditions. In contrast, previous studies on broiler chickens with similar dietary PUFA supplements did not find negative effects on performance [18, 41] . Studies confirm the positive effect of antioxidant supplementation on growth performance [16, 50] , which was also confirmed by our results."
+      ]
+    },
+    {
+      "s": "10.46897/livestockstudies.1418212",
+      "t": "10.2141/jpsa.0200026",
+      "d": 1
+    },
+    {
+      "s": "10.3389/fphys.2025.1594095",
+      "t": "10.2141/jpsa.0200026",
+      "d": 1,
+      "type": [
+        "contradicting",
+        "mentioning"
+      ],
+      "section": [
+        "discussion",
+        "methods"
+      ],
+      "snippets": [
+        "The ACW and ACL in feed and serum samples were analyzed using commercial PhotoChem kits (Analytik Jena, Jena, Germany). The activities of SOD and GPx in whole blood were determined spectrophotometrically with an automated biochemical analyzer RX Daytona (Randox Laboratories, Crumlin, United Kingdom) using commercially available Ransod and Ransel kits (Randox Laboratories, Crumlin, United Kingdom), as the procedure is described in detail in the studies by Leskovec et al (2018) and Pirman et al (2021) .",
+        "In the present study, plasma F2-isoprostane levels were lower in both groups supplemented with linseed oil, probably due to lower arachidonic acid content in tissues after long-term linseed oil supplementation (data not shown). This result is in contrast to previous studies in pigs ( Frankič and Salobir, 2011 ) and broilers ( Pirman et al, 2021 ), in which no changes in F2-isoprostane levels were observed with a diet high in n-3 PUFAs. In addition, plasma F2-isoprostane levels were lowest in the HAOX-N-3 group, suggesting a protective antioxidant effect and consistent with the results in pigs in which vitamin E lowered F2-isoprostane levels ( Leskovec et al, 2019 ).",
+        "Our results are in line with previously published research where exposure of broilers to HS has been reported to affect their growth performance, as evidenced by a decrease in final BW, BWG, FI and higher FCR ( Sohail et al, 2012 ; Goo et al, 2019 ). However, no negative effects of high intake of n-3 PUFAs on broiler performance were found in similar trials ( Leskovec et al, 2018 ; Pirman et al, 2021 ). Similar to our results, several studies showed a protective effect of the combination of vitamins E and C ( Attia et al, 2017 ), and vitamin E and Se ( Habibian et al, 2016 ) on the growth parameters of broilers under HS conditions."
+      ]
+    },
+    {
+      "s": "10.3390/antiox12091723",
+      "t": "10.2141/jpsa.0200026",
+      "d": 1,
+      "type": [
+        "mentioning"
+      ],
+      "section": [
+        "discussion",
+        "introduction"
+      ],
+      "snippets": [
+        "Among these phytochemicals, oleuropein is the main compound responsible for the powerful antioxidant and antimicrobial activity of olive leaf extract [ 17 ]. Previous studies in broilers showed that dietary supplementation with olive leaves or their extract improved performance, meat quality, oxidative stress parameters and intestinal health [ 18 , 19 , 20 , 21 , 22 ]. Contrary to these findings, there were reported cases where broilers’ growth performance was not improved [ 23 , 24 ] or even deteriorated [ 25 ] following dietary supplementation of olive leaves or their extract.",
+        "Olive byproducts can be used as natural antioxidants because of their high content of phenolic substances [ 48 ]. In particular, olive leaf extract contains phenols (oleuropein, verbascoside) and flavonoids responsible for their antioxidant properties [ 21 , 22 ], which explain the beneficial effects on lipid and protein peroxidation found in this study. Numerous previous studies have reported similar effects on MDA values following dietary supplementation of olive byproducts on poultry meat [ 19 , 22 , 48 , 49 ] and liver [ 50 , 51 ].",
+        "In the study of da Silva et al (2018) [ 20 ], dietary supplementation of 0.5% and 1% olive leaves in Cobb chickens reduced primary lipid oxidation products in processed meat products. Dietary olive leaf extract supplementation as an ethanol solution (5 mL/kg diet containing 53.0 mg oleuropein/mL) to broilers, although having some positive effects in parameters of oxidative stress measured in blood and intestinal health, did not show any effect on liver lipid oxidation as estimated by MDA measurement [ 21 ]. In the present study, the levels of olive leaf extract were selected based on the findings of the previous studies."
+      ]
+    },
+    {
+      "s": "10.1016/j.rvsc.2024.105294",
+      "t": "10.2141/jpsa.0200026",
+      "d": 1
+    },
+    {
+      "s": "10.20944/preprints202305.0939.v1",
+      "t": "10.2141/jpsa.0200026",
+      "d": 1,
+      "type": [
+        "contradicting",
+        "mentioning"
+      ],
+      "section": [
+        "histology of the small intestine",
+        "introduction"
+      ],
+      "snippets": [
+        "The beneficial impact of polyphenols in poultry nutrition [9, 12] includes improving antioxidant status and intestinal health, which can promote increased production [13, 14] . Phytochemicals, including aromatic plants and plant extracts, may improve feed intake, gastric secretion, and histological morphometry of the small intestine in poultry [15] [16] [17] . Thus, the supplementation of poultry diets with leaves, spices, and intact herbs or their extracts, can constitute a simple, suitable strategy to improve animal health and productive performance and to introduce natural antioxidants into the products improving oxidative stability and shelf life.",
+        "This result was interpreted as a presumed increase in epithelial turnover. However, our findings do not completely match the results obtained by Pirman et al (2021) [16] in broilers fed with olive leaf extract, because in that investigation no difference was detected in the VH:CD ratio of the duodenum, whereas a reduction of the VH:CD ratio was observed in the ileum. It has been suggested that the variation in the results in different trials may depend on the composition of the phytogenic feed additives, level of application or methods for extracting bioactive compounds from herbs [97] ."
+      ]
+    },
+    {
+      "s": "10.26655/jmchemsci.2023.12.19",
+      "t": "10.2141/jpsa.0200026",
+      "d": 1,
+      "type": [
+        "mentioning"
+      ],
+      "section": [
+        "effect of administration of ethanol extract of marigold leav...",
+        "introduction"
+      ],
+      "snippets": [
+        "Catecholamines can increase the frequency of GnRH stimulation resulting in decreased gonadotropins (LH and FSH) [25] . In P1, the dosage of 0.25 g/kg-BW exhibited an average of 0.54, while in P2, the dosage of 0.50 g/kg-BW resulted in an average of 0.60 [18] . Demonstrated that an increase in P2 with a dosage of 0.50 g/kg-BW was associated with marigold (Tegetes erecta) leaf extracts containing flavonoids, which have the ability to reduce lipid oxidation and the formation of free radicals that can disrupt the hormonal system.",
+        "Marigold (Tagetes erecta) or often called the kotok flower as shown in Figure 1 is a plant that grows wild on plantations or around the house [14] indicated that marigold is a type of medicinal plant that contains flavonoids, polyphenols, and two types of carotenoids, namely carotenes, and xanthophylls [15, 16] . Flavonoids present in marigold leaves have been shown to be free radical scanning caused by several factors, one of which is exposure to cigarette smoke [17, 18] showed that flavonoids are antioxidants that can reduce lipid oxidation and suppress the formation of free radicals [17] reported that total polyphenols and flavonoid content in marigolds were 74.8 mg TAE/g and 85.6 mg RE/g. Providing antioxidant supplements can be beneficial in improving sperm function and DNA integrity [19] ."
+      ]
+    },
+    {
+      "s": "10.1016/j.livsci.2024.105534",
+      "t": "10.2141/jpsa.0200026",
+      "d": 1
+    },
+    {
+      "s": "10.1016/j.livsci.2024.105584",
+      "t": "10.2141/jpsa.0200026",
+      "d": 1
+    },
+    {
+      "s": "10.3390/agriculture16171842",
+      "t": "10.2141/jpsa.0200026",
+      "d": 1,
+      "type": [
+        "mentioning"
+      ],
+      "section": [
+        "epithelial barrier as the central interface of the microbiot..."
+      ],
+      "snippets": [
+        "Compared with villus height, crypt depth shows greater variability among studies (Table 3). Reduced or normalised crypt depth following supplementation with Brachiaria decumbens and Calendula officinalis is generally interpreted as evidence of reduced epithelial injury and lower regenerative demand [ 157 , 158 ]. Conversely, simultaneous increases in villus height and crypt depth, as reported for Allium sativum and Anredera cordifolia , most likely reflect accelerated physiological renewal rather than pathological hyperplasia, particularly when accompanied by improved epithelial architecture [ 15 , 159 ]."
+      ]
+    },
+    {
+      "s": "10.3390/ani16071009",
+      "t": "10.2141/jpsa.0200026",
+      "d": 1,
+      "type": [
+        "mentioning"
+      ],
+      "section": [
+        "introduction"
+      ],
+      "snippets": [
+        "Previous studies in pigs and poultry have shown that polyphenol-rich plant extracts can improve intestinal morphology, modulate gut microbiota composition, and increase villus height, thereby enhancing nutrient utilization and reducing inflammatory stress [ 17 , 18 ]. Olea europaea L. polyphenolic extract, in particular, have been shown to modulate intestinal architecture and tight junction integrity through antioxidant and anti-inflammatory mechanisms, thereby supporting a healthier gut environment [ 19 ]."
+      ]
+    },
+    {
+      "s": "10.3389/fphys.2026.1826795",
+      "t": "10.2141/jpsa.0200026",
+      "d": 1,
+      "type": [
+        "mentioning"
+      ],
+      "section": [
+        "introduction"
+      ],
+      "snippets": [
+        "Along with its polyphenolic compounds, olive oil’s high MUFAs content has been shown to exert antioxidant and anti-inflammatory effects, which can particularly be beneficial for brain health ( Martín‐Peláez et al., 2013 ; Angeloni et al., 2017 ). The polyphenols have been associated with numerous health benefits, including improved lipid profiles, enhanced antioxidant status, modulation of inflammatory responses, and improved feed efficiency in poultry ( Pirman et al., 2021 ; Rafei-Tari et al., 2021 ). Specifically, olive oil’s polyphenols, such as hydroxytyrosol and oleocanthal, have been demonstrated to reduce oxidative damage and inhibit pro-inflammatory pathways in the human brain ( Pérez-Herrera et al., 2012 )."
+      ]
+    },
+    {
+      "s": "10.21203/rs.3.rs-10185695/v1",
+      "t": "10.2141/jpsa.0200026",
+      "d": 1
+    },
+    {
+      "s": "10.3390/agriculture15060662",
+      "t": "10.2141/jpsa.0200026",
+      "d": 1,
+      "type": [
+        "mentioning"
+      ],
+      "section": [
+        "introduction"
+      ],
+      "snippets": [
+        "Research on the antioxidant benefits of olive by-products in poultry is relatively limited. Nonetheless, supplementing broiler feed with olive leaf extract has demonstrated notable benefits as it can enhance the birds' antioxidant capacity and gut health, and it reduces lipid oxidation in blood plasma and breast meat, evidenced by lower malondialdehyde (MDA) [21, 22] . Similarly, Gerasopoulos et al [23] reported that supplementation with olive mill wastewater decreased protein and lipid oxidation and increased antioxidant capacity in plasma and tissues of broilers."
+      ]
+    },
+    {
+      "s": "10.1016/j.vas.2025.100504",
+      "t": "10.2141/jpsa.0200026",
+      "d": 1,
+      "type": [
+        "mentioning"
+      ],
+      "section": [
+        "discussion"
+      ],
+      "snippets": [
+        "Phytobiotics, including those derived from plant extracts such as Averrhoa carambola L., have been shown to improve gut morphology by increasing villus height and crypt depth, which can enhance nutrient absorption and overall gut health. Better gut health can lead to more efficient nutrient utilization and potentially reduce the relative weight of the small intestine owing to enhanced body weight ( Basit et al, 2020 ; Yasmin et al, 2022 ; Pirman et al, 2021 ). The methanolic extract of Averrhoa carambola L. has been shown to decrease hepatic cholesterol and triglycerides, which can lead to a reduction in liver weight."
+      ]
+    },
+    {
+      "s": "10.1016/j.vas.2025.100509",
+      "t": "10.2141/jpsa.0200026",
+      "d": 1,
+      "type": [
+        "mentioning"
+      ],
+      "section": [
+        "methods"
+      ],
+      "snippets": [
+        "The positive control (C+) was used as a reference to evaluate the effect of WLs introduced in increasing doses (2.5 % or 5 %) in the FO-supplemented diet. The experimental diets (C+, WL2.5 and WL5) were prepared with 5.0 % FO to induce dietary oxidative stress, which was confirmed in previous studies on broiler chickens (Voljč et al, 2013 ; Pirman et al, 2021 ). The amount of WLs in the two experimental diets was designed while taking into account the phenolic content of the analyzed WL samples and the phenolic content of diets supplemented with different plant by-products to improve the antioxidant status of the laying hens ( Romero et al, 2022 ; Selim et al, 2023 ; Vlaicu et al, 2021 )."
+      ]
+    },
+    {
+      "s": "10.1186/s41021-026-00360-4",
+      "t": "10.2141/jpsa.0200026",
+      "d": 1
+    },
+    {
+      "s": "10.1080/00439339.2026.2723137",
+      "t": "10.2141/jpsa.0200026",
+      "d": 1
+    },
+    {
+      "s": "10.1016/j.rvsc.2025.105990",
+      "t": "10.3382/japr/pfx005",
+      "d": 1
+    },
+    {
+      "s": "10.1016/j.psj.2025.106322",
+      "t": "10.3382/japr/pfx005",
+      "d": 1
+    },
+    {
+      "s": "10.2903/j.efsa.2020.6018",
+      "t": "10.3382/japr/pfx005",
+      "d": 1,
+      "type": [
+        "mentioning"
+      ],
+      "section": [
+        "safety for target species"
+      ],
+      "snippets": [
+        "In the remaining study, the effect of an olive leaf extract on the performance of chickens raised under tropical conditions (annual mean temperature 34°C and relative humidity 82%) was investigated in an experiment of 8-week duration (Oke et al, 2017) . In this study, the olive leaf extract was added to water for drinking at 5, 10 or 15 mL/L, corresponding to 22, 44 or 66 mg oleuropein/L."
+      ]
+    },
+    {
+      "s": "10.1111/jpn.13455",
+      "t": "10.3382/japr/pfx005",
+      "d": 1,
+      "type": [
+        "mentioning"
+      ],
+      "section": [
+        "effect of polyphenols on poultry performance"
+      ],
+      "snippets": [
+        "Supplementation of 0.25%, 0.50% and 0.75% olive leaf powder in broilers' diet significantly elevated their BW and decreased the FCR compared with the control birds. Moreover, a recent study showed that the supplementation of 10 and 15 ml of olive leaf extract in the drinking water of heat‐stressed broiler chickens improved WG, final BW, FI and FCR compared to the unsupplemented group (Oke et al., 2017 ). These findings together suggest that the beneficial impacts of the olive leaf extract could be due to its well‐demonstrated antioxidant, anti‐inflammatory and antimicrobial activity."
+      ]
+    },
+    {
+      "s": "10.3390/nu13020529",
+      "t": "10.3382/japr/pfx005",
+      "d": 1,
+      "type": [
+        "mentioning"
+      ],
+      "section": [
+        "discussion",
+        "results"
+      ],
+      "snippets": [
+        "The current systematic review demonstrates the thyroid-stimulating properties of olive derivatives, including olive oil, olive leaf extract, and olive residues like pomace and solid pulp, which increase the concentrations of thyroid hormones (mainly T3) in euthyroid animals [ 67 , 68 , 69 , 70 ] and animals under heat stress- [ 71 , 72 , 73 ] or with chemically-induced hypothyroidism [ 74 , 75 ]. Several studies have consistently reported mutual improvements in thyroid function and systemic or thyroid tissue oxidative status upon supplementation with olive derivatives, especially in animals with hypothyroidism [ 72 , 73 , 74 , 75 ]. Chronic heat stress has been associated with the suppression of thyroid production due to thermoregulation to reduce endogenous heat production [ 77 ].",
+        "On the other hand, 300 g of solid olive pulp was added to a basal diet and given to lambs for 3 months [ 71 ], and 15% solid olive pomace was added to a calf diet for 2 months [ 72 ]. The thyroid profile, including T3, T4, and/or TSH, was determined in healthy euthyroid animals [ 67 , 68 , 69 , 70 ] or animals under heat stress- [ 71 , 72 , 73 ] or with chemically-induced hypothyroidism [ 74 , 75 ]. TRH was not determined in any of the included studies.",
+        "The included studies were published between 2002 and 2019. All studies were conducted using animal models: rats [ 67 , 69 , 74 , 75 ], lambs [ 71 ], calves [ 72 ], goats [ 70 ], and chicken [ 68 , 73 ]. No in vitro or human studies on this topic have been conducted."
+      ]
+    },
+    {
+      "s": "10.33988/auvfd.717013",
+      "t": "10.3382/japr/pfx005",
+      "d": 1
+    },
+    {
+      "s": "10.1101/2020.06.18.159764",
+      "t": "10.3382/japr/pfx005",
+      "d": 1,
+      "type": [
+        "supporting"
+      ],
+      "section": [
+        "discussion"
+      ],
+      "snippets": [
+        "A high score could mean dehydrated or have another condition. Similar PCV % was observed by (Oke et al, 2017) for supplementary diet of olive leaf extract in broiler. The P-LCR % value significantly increased in the treatment groups due to the combined phytogenic effect of BW and HW in the supplementary diets for broiler chickens but our results higher than previously studied Olive oil, Black seed oil, Flax seed oil supplemented diet (Ashraf et al, 2019)."
+      ]
+    },
+    {
+      "s": "10.1016/j.animal.2020.100056",
+      "t": "10.3382/japr/pfx005",
+      "d": 1
+    },
+    {
+      "s": "10.1007/s11250-018-1532-8",
+      "t": "10.3382/japr/pfx005",
+      "d": 1
+    },
+    {
+      "s": "10.1007/s11250-020-02432-1",
+      "t": "10.3382/japr/pfx005",
+      "d": 1
+    },
+    {
+      "s": "10.1016/j.jtherbio.2020.102517",
+      "t": "10.3382/japr/pfx005",
+      "d": 1
+    },
+    {
+      "s": "10.1080/1828051x.2017.1351325",
+      "t": "10.3382/japr/pfx005",
+      "d": 1
+    },
+    {
+      "s": "10.1016/j.psj.2020.10.072",
+      "t": "10.3382/japr/pfx005",
+      "d": 1,
+      "type": [
+        "mentioning"
+      ],
+      "section": [
+        "introduction"
+      ],
+      "snippets": [
+        "In the recent decades, attention has been given to the use of phytogenic additives as antioxidant constituents and growth promoters from spice, herbs, and their products ( Wenk, 2003 ; Pathak et al., 2016 ; Oke et al., 2017 ; Oke 2018 ) as a result of the several benefits obtained from them. Black cumin ( Nigella Sativa L. ) is an aromatic Ranunculaceae herbaceous plant, and its seeds have been used around the world for its pharmacological actions and medicinal properties for over 2,000 yr."
+      ]
+    },
+    {
+      "s": "10.3390/ijms22126521",
+      "t": "10.3382/japr/pfx005",
+      "d": 1,
+      "type": [
+        "mentioning"
+      ],
+      "section": [
+        "environmental factors that influence tsh and thyroid hormone levels"
+      ],
+      "snippets": [
+        "Many experimental studies have shown that olive derivatives, especially olive oil, have a stimulating effect on the thyroid gland (reviewed in [ 110 ]). The experimental studies were performed on various animal models: rats [ 111 , 112 , 113 , 114 ], chicken [ 115 , 116 ], lambs [ 117 ], goats [ 118 ] and calves [ 119 ]. The mechanism by which olive derivatives and olive oil affect the TSH and thyroid hormone levels is still unclear [ 110 ]."
+      ]
+    },
+    {
+      "s": "10.2141/jpsa.0200026",
+      "t": "10.3382/japr/pfx005",
+      "d": 1
+    },
+    {
+      "s": "10.1016/j.psj.2021.101344",
+      "t": "10.3382/japr/pfx005",
+      "d": 1,
+      "type": [
+        "mentioning"
+      ],
+      "section": [
+        "discussion"
+      ],
+      "snippets": [
+        "A suppression in thyroid axis is believed to be associated with heat stress ( Oke et al, 2017 ). In this scenario, the conversion of T4 to T3, which is biologically more active, is decreased due to the suppression of thyroid-stimulating-hormone secretion during heat stress, leading to a lower level of triiodothyronine in broilers ( Lin et al, 2006 ; Oke et al, 2017 ). Therefore, as one effective strategy, every attempt must be made to improve this harsh condition by increasing the concentration of this hormone.",
+        "Thyroid hormones play an important role in thermoregulation of avian species. A suppression in thyroid axis is believed to be associated with heat stress ( Oke et al, 2017 ). In this scenario, the conversion of T4 to T3, which is biologically more active, is decreased due to the suppression of thyroid-stimulating-hormone secretion during heat stress, leading to a lower level of triiodothyronine in broilers ( Lin et al, 2006 ; Oke et al, 2017 ).",
+        "Therefore, as one effective strategy, every attempt must be made to improve this harsh condition by increasing the concentration of this hormone. Some researchers have reported a rise in this hormone by applying essential oils and extracts such as olive leaf oil ( Oke et al, 2017 ). In the present study, we observed that using SBM proved to be effective in raising the level of triiodothyronine especially at 0.25 mL/L (T2 group)."
+      ]
+    },
+    {
+      "s": "10.3329/ajmbr.v6i4.51231",
+      "t": "10.3382/japr/pfx005",
+      "d": 1,
+      "type": [
+        "mentioning"
+      ],
+      "section": [
+        "introduction"
+      ],
+      "snippets": [
+        "Ethanolic extract of Ceylon olive leaves possesses antibacterial and cytotoxic activity (Biswas et al, 2012) . Olive leaf extracts are seen to improve feed intake, weight gain and feed conversion ratio in broiler (Oke et al, 2017) . In broiler, the leaves cause an improvement in oxidative stability, physio-chemical and sensory characteristics of meat (Marangoni et al, 2017)."
+      ]
+    },
+    {
+      "s": "10.12681/jhvms.21793",
+      "t": "10.3382/japr/pfx005",
+      "d": 1,
+      "type": [
+        "contradicting"
+      ],
+      "section": [
+        "discussion"
+      ],
+      "snippets": [
+        "In the present study, total antioxidant activity determined in blood was not altered by olive pulp addition to broiler diets. Contrary to our findings, Oke et al (2017) reported that inclusion of olive leaf extract in the water of broilers, reared in a hot and humid tropical climate, improved performance and increased plasma SOD activity. Similarly to our results, Tarek et al (2013) reported no significant difference in the performance of broiler chickens fed different doses of olive leaf extract in feed."
+      ]
+    },
+    {
+      "s": "10.30466/vrf.2018.77670.2033",
+      "t": "10.3382/japr/pfx005",
+      "d": 1
+    },
+    {
+      "s": "10.21608/avmj.2019.169038",
+      "t": "10.3382/japr/pfx005",
+      "d": 1,
+      "type": [
+        "mentioning",
+        "supporting"
+      ],
+      "section": [
+        "oxidative status and immune response"
+      ],
+      "snippets": [
+        "Dada et al (2015) reported that, addition of chamomile powder at levels of 4 g/kg were significantly increased percentage of bursa of fabercius weight (P&lt;0.05). Opposite results were obtained by Oke et al (2017) who found that, chicks fed diets supplemented with olive leaves powder had no significant effect on white blood cells (WBC) and lymphocyte. Al-Kaisse &amp; Khalel (2011) stated that, addition of 0.25, 0.50, 0.75 and 1% of chamomile flowers powder to broiler diets had no effect WBC count.",
+        "Serum catalase enzyme was significantly increased in the third and fourth groups compared with other treated groups and control. These results are in harmony with the findings of Ahmed et al (2017) and Oke et al (2017) who found that, adding different levels of olive leaves powder to broiler diets significantly decreased malondialdhyde (MDA) concentration. Ahmed et al (2015) stated that, diets supplemented with 10g basil, 10g chamomile and 5g basil plus 5g chamomile per kg significantly decreased the serum level of malondialdehyde, whereas the activities of catalase was significantly increased (P&lt;0.05)."
+      ]
+    },
+    {
+      "s": "10.3390/molecules26144307",
+      "t": "10.3382/japr/pfx005",
+      "d": 1,
+      "type": [
+        "mentioning"
+      ],
+      "section": [
+        "introduction",
+        "lipid oxidation"
+      ],
+      "snippets": [
+        "The effects of the addition of olive phenolic compounds to the poultry diet have been reported in several studies with contrasting effects on growth performance [ 15 , 16 , 17 , 18 , 19 ]. The different effects observed might depend on the effective bioavailability of the different molecules.",
+        "Similarly, [46] observed a reduction in TBARs in the quadriceps femoris of chickens whose diets were enriched with OMWW permeate and retentate. Oke et al [16] added different volumes of olive leaf extract (5, 10 and 15 mL/liter) to the drinking water supplied to Abor acre strain broilers, observing a significant effect on the reduction of blood levels of malondialdehyde (MDA). Ibrahim et al [42] , observed a significant reduction in the MDA concentration in chicken breast obtained by adding the diet with increasing levels of fermented or enzymatically fermented dried olive pomace."
+      ]
+    }
+  ],
+  "papers": {
+    "10.1007/s11250-018-1532-8": {
+      "title": "Evaluation of physiological response and performance by supplementation of Curcuma longa in broiler feed under hot humid tropical climate",
+      "year": 2018
+    },
+    "10.1007/s11250-020-02432-1": {
+      "title": "Evaluation of light colour manipulation on physiological response and growth performance of broiler chickens",
+      "year": 2020
+    },
+    "10.1007/s11250-023-03776-0": {
+      "title": "The effects of infused olive leaf offered with drinking water on growth performance, ileum histomorphologic characteristics, and some cecal microorganism counts of broiler chickens",
+      "year": 2023
+    },
+    "10.1016/j.animal.2020.100056": {
+      "title": "Effect of cereal type and plant extract addition on the growth performance, intestinal morphology, caecal microflora, and gut barriers gene expression of broiler chickens",
+      "year": 2021
+    },
+    "10.1016/j.animal.2026.101822": {
+      "title": "Review: Additives delivery through drinking water to support gut health in swine and poultry — a systematic literature review",
+      "year": 2026
+    },
+    "10.1016/j.jtherbio.2020.102517": {
+      "title": "Early age thermal manipulation on the performance and physiological response of broiler chickens under hot humid tropical climate",
+      "year": 2020
+    },
+    "10.1016/j.livsci.2024.105534": {
+      "title": "Effects of the inclusion of two extracts derived from the olive industry on growth performance, antiparasitic protection, and antioxidant activity in broiler chicken diets from 0 to 45 d",
+      "year": 2024
+    },
+    "10.1016/j.livsci.2024.105584": {
+      "title": "Mediterranean agro-industrial by-products and food waste in pig and chicken diets: Which way forward?",
+      "year": 2024
+    },
+    "10.1016/j.psj.2020.10.072": {
+      "title": "In ovo injection of black cumin (Nigella sativa) extract on hatching and post hatch performance of thermally challenged broiler chickens during incubation",
+      "year": 2021
+    },
+    "10.1016/j.psj.2021.101344": {
+      "title": "The effects of the mixture of betaine, vitamin C, St John's wort (Hypericum perforatum L.), lavender, and Melissa officinalis on performance and some physiological parameters in broiler chickens exposed to heat stress",
+      "year": 2021
+    },
+    "10.1016/j.psj.2025.106322": {
+      "title": "Comparing different water supplementation in cyclic heat stressed broilers. The effect of selected antioxidant mixtures, betaine, functional amino acids and electrolyzed reduced water",
+      "year": 2026
+    },
+    "10.1016/j.rvsc.2024.105294": {
+      "title": "Response of laying hens fed diet supplemented with a mixture of olive, laurel, and rosemary leaf powders: Metabolic profile, oxidative status, intestinal histomorphology, and egg quality",
+      "year": 2024
+    },
+    "10.1016/j.rvsc.2025.105990": {
+      "title": "Effects of dietary supplementation of an oleuropein-enriched olive leaf extract on performance, carcass characteristics, intestinal health, foot pad parameters and meat quality of broilers",
+      "year": 2026
+    },
+    "10.1016/j.vas.2025.100504": {
+      "title": "Effect of encapsulated Averrhoa carambola L. leaf extract on the growth performance, haemato-biochemical parameters, gut health, and antioxidant activity in broiler chickens",
+      "year": 2025
+    },
+    "10.1016/j.vas.2025.100509": {
+      "title": "Effect of dietary wine lees on oxidative stress, egg quality and yolk lipid stability in laying hens fed with a diet rich in n-3 polyunsaturated fats",
+      "year": 2025
+    },
+    "10.1080/00439339.2026.2723137": {
+      "title": "Marigold (\n                    <i>Tagetes</i>\n                    spp.) as a functional feed additive in poultry nutrition: a comprehensive review",
+      "year": 2026
+    },
+    "10.1080/1828051x.2017.1351325": {
+      "title": "The effects of dietary oleuropein and organic selenium supplementation in heat-stressed quails on tonic immobility duration and fluctuating asymmetry",
+      "year": 2017
+    },
+    "10.1101/2020.06.18.159764": {
+      "title": "Honeyweed (\n                  <i>Leonurus sibiricus</i>\n                  ) and Buckwheat (\n                  <i>Fagopyrum esculentum</i>\n                  ) supplemented diet improve growth performance, lipid profile and hematological values of broiler chicks",
+      "year": 2020
+    },
+    "10.1111/jpn.13455": {
+      "title": "The role of polyphenols in poultry nutrition",
+      "year": 2020
+    },
+    "10.1111/jpn.13611": {
+      "title": "Influence of dietary supplementation of marigold flower powder and extract (\n                    <i>Calendula officinalis</i>\n                    L.) on performance, nutrient digestibility, serum biochemistry, antioxidant parameters and immune responses of growing Japanese quail",
+      "year": 2021
+    },
+    "10.1186/s41021-026-00360-4": {
+      "title": "A PUFA-rich diet increases endogenous genotoxic stress and mitochondrial DNA damage in mice",
+      "year": 2026
+    },
+    "10.12681/jhvms.21793": {
+      "title": "Effects of olive pulp addition to broiler diets on performance, selected biochemical parameters and antioxidant enzymes",
+      "year": 2019
+    },
+    "10.20944/preprints202305.0939.v1": {
+      "title": "Egg Quality, Oxidative Status, Serum Metabolic Profile and Intestinal Morphology of Laying Hens as Influenced by a Dietary Mixed Powder of Plant Leaves",
+      "year": 2023
+    },
+    "10.21203/rs.3.rs-10185695/v1": {
+      "title": "Study of Marigold Flower Powder Supplementation on Broiler Chicken Growth Performance",
+      "year": 2026
+    },
+    "10.2141/jpsa.0200026": {
+      "title": "Effect of Olive Leaves or Marigold Petal Extract on Oxidative Stress, Gut Fermentative Activity, and Mucosa Morphology in Broiler Chickens Fed a Diet Rich in n-3 Polyunsaturated Fats",
+      "year": 2021
+    },
+    "10.21608/avmj.2019.169038": {
+      "title": "EFFECT OF DIETARY OLIVE LEAVES AND CHAMOMILE FLOWERS POWDER ON THE GROWTH PERFORMANCE AND CARCASS TRAITS AND OF BROILERS (SASSO BREED)",
+      "year": 2019
+    },
+    "10.26655/jmchemsci.2023.12.19": {
+      "title": null,
+      "year": 2023
+    },
+    "10.2903/j.efsa.2020.6018": {
+      "title": "Safety and efficacy of a dried aqueous ethanol extract of leaves from Olea europaea L. when used as a sensory additive in feed for all animal species",
+      "year": 2020
+    },
+    "10.3329/ajmbr.v6i4.51231": {
+      "title": "Functionality of Elaeocarpus serratus leaves on growth, meat quality and cost return analysis in broiler rearing",
+      "year": 2021
+    },
+    "10.3382/japr/pfx005": {
+      "title": "Physiological responses and performance of broiler chickens offered olive leaf extract under a hot humid tropical climate",
+      "year": 2017
+    },
+    "10.3389/fphys.2025.1594095": {
+      "title": "Interactive effects of high n-3 PUFA intake and cyclic heat stress under two dietary antioxidant levels in broiler chickens",
+      "year": 2025
+    },
+    "10.3389/fphys.2026.1826795": {
+      "title": "Olive oil-derived monounsaturated fat influences metabolic signatures in serotonergic regions of the brain in broiler chicken",
+      "year": 2026
+    },
+    "10.3390/agriculture14010064": {
+      "title": "Combined Effects of Cyclic Heat Stress, Dietary Induced Oxidative Stress and Different Levels of Antioxidant on Gut Fermentation Activity and Mucosal Morphology in Broiler Chickens",
+      "year": 2023
+    },
+    "10.3390/agriculture15060662": {
+      "title": "Effect of Dietary Inclusion of Olive Leaves and Olive Pulp on the Oxidative Status and Meat Quality of Broiler Chickens",
+      "year": 2025
+    },
+    "10.3390/agriculture16171842": {
+      "title": "Plant-Derived Feed Additives Modulate the Microbiota–Gut–Immune Axis in Broiler Chickens: From Intestinal Homeostasis to Physiological Resilience",
+      "year": 2026
+    },
+    "10.3390/ani15030308": {
+      "title": "Antioxidant Synergy in a Mixture of Powder Plant Leaves and Effects on Metabolic Profile, Oxidative Status and Intestinal Morpho-Histochemical Features of Laying Hens",
+      "year": 2025
+    },
+    "10.3390/ani16071009": {
+      "title": "An Integrated Approach to Evaluate the Influence of Dietary Olea europaea L. Polyphenols on Physiological Stress, Intestinal Morphofunctional Traits, and Meat Quality in Neroametà Pigs: A Preliminary Study",
+      "year": 2026
+    },
+    "10.3390/antiox12091723": {
+      "title": "Effects of Dietary Supplementation of a Resin-Purified Aqueous-Isopropanol Olive Leaf Extract on Meat and Liver Antioxidant Parameters in Broilers",
+      "year": 2023
+    },
+    "10.3390/ijms22126521": {
+      "title": "Environmental Factors Affecting Thyroid-Stimulating Hormone and Thyroid Hormone Levels",
+      "year": 2021
+    },
+    "10.3390/life13061287": {
+      "title": "Immunomodulatory Effects of Natural Feed Additives for Meat Chickens",
+      "year": 2023
+    },
+    "10.3390/molecules26144307": {
+      "title": "Employment of Phenolic Compounds from Olive Vegetation Water in Broiler Chickens: Effects on Gut Microbiota and on the Shelf Life of Breast Fillets",
+      "year": 2021
+    },
+    "10.3390/nu13020529": {
+      "title": "Thyroid-Modulating Activities of Olive and Its Polyphenols: A Systematic Review",
+      "year": 2021
+    },
+    "10.33988/auvfd.717013": {
+      "title": "The effects of dietary supplementation of olive leaf extract and eggshell with membrane on performance, egg quality, blood biochemical, and bone parameters in laying Japanese quail",
+      "year": 2021
+    },
+    "10.46897/livestockstudies.1418212": {
+      "title": "Growth and Immune Responses, Oxidative Stress Biomarkers, and Antioxidative Enzymes of Broilers Fed with Supplementation of Chenopodium ambrosioides L. and Crassocephalum crepidioides leaf meals",
+      "year": 2023
+    },
+    "10.47115/bsagriculture.1862641": {
+      "title": "Effects of Sage (Salvia officinalis L.) Infusion Supplementation in Drinking Water on Growth Performance and Meat Quality of Quail",
+      "year": 2026
+    }
+  }
+}

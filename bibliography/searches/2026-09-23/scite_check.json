@@ -1,0 +1,194 @@
+{
+  "date": "2026-09-23",
+  "call_number": 1,
+  "parameters": {
+    "dois": [
+      "10.1007/s11250-023-03776-0",
+      "10.3382/japr/pfx005",
+      "10.37496/rbz4920180300",
+      "10.2141/jpsa.0200026",
+      "10.1016/j.psj.2025.105087",
+      "10.1016/j.psj.2023.103054",
+      "10.3390/ani14060871",
+      "10.1016/j.psj.2021.101516",
+      "10.1186/s12917-025-04663-6",
+      "10.1016/j.rvsc.2025.105990",
+      "10.33988/auvfd.1867391"
+    ],
+    "limit": 15,
+    "user_intent": "thesis_editorial_notice_check"
+  },
+  "total": 11,
+  "hits": [
+    {
+      "doi": "10.1016/j.psj.2021.101516",
+      "title": "Immunomodulatory and antioxidant effects of hydroxytyrosol in cyclophosphamide-induced immunosuppressed broilers",
+      "year": 2022,
+      "tally": {
+        "total": 35,
+        "supporting": 3,
+        "contrasting": 0,
+        "mentioning": 32,
+        "citingPublications": 33
+      },
+      "editorialNotices": null,
+      "notice_field_returned": false,
+      "isOa": true,
+      "contentDenied": true
+    },
+    {
+      "doi": "10.1016/j.psj.2025.105087",
+      "title": "Consequences of dietary olive leaf powder supplementation on growth performance, carcass traits, blood biochemical parameters and gut microbiota in broilers",
+      "year": 2025,
+      "tally": {
+        "total": 4,
+        "supporting": 0,
+        "contrasting": 0,
+        "mentioning": 4,
+        "citingPublications": 5
+      },
+      "editorialNotices": null,
+      "notice_field_returned": false,
+      "isOa": true,
+      "contentDenied": true
+    },
+    {
+      "doi": "10.37496/rbz4920180300",
+      "title": "Evaluation of olive leaf extract as a growth promoter on the performance, blood biochemical parameters, and caecal microflora of broiler chickens",
+      "year": 2020,
+      "tally": {
+        "total": 25,
+        "supporting": 7,
+        "contrasting": 0,
+        "mentioning": 18,
+        "citingPublications": 19
+      },
+      "editorialNotices": null,
+      "notice_field_returned": false,
+      "isOa": true,
+      "contentDenied": false
+    },
+    {
+      "doi": "10.3390/ani14060871",
+      "title": "Dietary Hydroxytyrosol Supplementation on Growth Performance, Gut Morphometry, and Oxidative and Inflammatory Status in LPS-Challenged Broilers",
+      "year": 2024,
+      "tally": {
+        "total": 11,
+        "supporting": 3,
+        "contrasting": 0,
+        "mentioning": 8,
+        "citingPublications": 11
+      },
+      "editorialNotices": null,
+      "notice_field_returned": false,
+      "isOa": true,
+      "contentDenied": false
+    },
+    {
+      "doi": "10.2141/jpsa.0200026",
+      "title": "Effect of Olive Leaves or Marigold Petal Extract on Oxidative Stress, Gut Fermentative Activity, and Mucosa Morphology in Broiler Chickens Fed a Diet Rich in n-3 Polyunsaturated Fats",
+      "year": 2021,
+      "tally": {
+        "total": 22,
+        "supporting": 1,
+        "contrasting": 2,
+        "mentioning": 19,
+        "citingPublications": 19
+      },
+      "editorialNotices": null,
+      "notice_field_returned": false,
+      "isOa": true,
+      "contentDenied": true
+    },
+    {
+      "doi": "10.1016/j.psj.2023.103054",
+      "title": "Evaluation of antimicrobial effect of olive leaves powder and its role in improving the broiler productivity, carcass traits, blood metabolites, and caecal microbiota",
+      "year": 2023,
+      "tally": {
+        "total": 11,
+        "supporting": 3,
+        "contrasting": 1,
+        "mentioning": 7,
+        "citingPublications": 17
+      },
+      "editorialNotices": null,
+      "notice_field_returned": false,
+      "isOa": true,
+      "contentDenied": true
+    },
+    {
+      "doi": "10.3382/japr/pfx005",
+      "title": "Physiological responses and performance of broiler chickens offered olive leaf extract under a hot humid tropical climate",
+      "year": 2017,
+      "tally": {
+        "total": 91,
+        "supporting": 12,
+        "contrasting": 1,
+        "mentioning": 78,
+        "citingPublications": 88
+      },
+      "editorialNotices": null,
+      "notice_field_returned": false,
+      "isOa": true,
+      "contentDenied": true
+    },
+    {
+      "doi": "10.33988/auvfd.1867391",
+      "title": "Effects of chitosan- and alginate-encapsulated olive leaf extract on performance, selected blood parameters, and antioxidant activity in broiler diets",
+      "year": 2026,
+      "editorialNotices": null,
+      "notice_field_returned": false,
+      "isOa": true,
+      "contentDenied": true
+    },
+    {
+      "doi": "10.1007/s11250-023-03776-0",
+      "title": "The effects of infused olive leaf offered with drinking water on growth performance, ileum histomorphologic characteristics, and some cecal microorganism counts of broiler chickens",
+      "year": 2023,
+      "tally": {
+        "total": 1,
+        "supporting": 0,
+        "contrasting": 0,
+        "mentioning": 1,
+        "citingPublications": 4
+      },
+      "editorialNotices": null,
+      "notice_field_returned": false,
+      "isOa": false,
+      "contentDenied": true
+    },
+    {
+      "doi": "10.1016/j.rvsc.2025.105990",
+      "title": "Effects of dietary supplementation of an oleuropein-enriched olive leaf extract on performance, carcass characteristics, intestinal health, foot pad parameters and meat quality of broilers",
+      "year": 2026,
+      "tally": {
+        "total": 2,
+        "supporting": 0,
+        "contrasting": 0,
+        "mentioning": 2,
+        "citingPublications": 2
+      },
+      "editorialNotices": null,
+      "notice_field_returned": false,
+      "isOa": true,
+      "contentDenied": false
+    },
+    {
+      "doi": "10.1186/s12917-025-04663-6",
+      "title": "Combined modulatory effects of dietary arginine and olive leaf phenolic extract on growth performance and immune functions of broiler chickens, and meat antioxidant potential during frozen storage",
+      "year": 2025,
+      "tally": {
+        "total": 5,
+        "supporting": 0,
+        "contrasting": 0,
+        "mentioning": 5,
+        "citingPublications": 8
+      },
+      "editorialNotices": null,
+      "notice_field_returned": false,
+      "isOa": true,
+      "contentDenied": true
+    }
+  ],
+  "interpretation": "Le champ editorialNotices est absent des résultats : aucun statut négatif certifié. Les indicateurs de citation ne sont pas une évaluation de validité."
+}

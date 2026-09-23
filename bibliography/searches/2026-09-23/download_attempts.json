@@ -1,0 +1,402 @@
+[
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.psj.2025.105087",
+    "dest": "metadata/Negm2025.json",
+    "kind": "json",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 29694
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.psj.2023.103054",
+    "dest": "metadata/Almuhayawi2023.json",
+    "kind": "json",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 18870
+  },
+  {
+    "url": "https://api.crossref.org/works/10.3390/ani14060871",
+    "dest": "metadata/Dias2024.json",
+    "kind": "json",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 23789
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.psj.2021.101516",
+    "dest": "metadata/Shan2022.json",
+    "kind": "json",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 15918
+  },
+  {
+    "url": "https://api.crossref.org/works/10.3390/molecules26144307",
+    "dest": "metadata/Balzan2021.json",
+    "kind": "json",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 27622
+  },
+  {
+    "url": "https://api.crossref.org/works/10.30466/vrf.2018.77670.2033",
+    "dest": "metadata/Amini2019.json",
+    "kind": "json",
+    "date": "2026-09-23",
+    "status": "failed",
+    "error": "HTTP 404"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.3382/japr/pfx005",
+    "dest": "metadata/Oke2017.json",
+    "kind": "json",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 18546
+  },
+  {
+    "url": "https://api.crossref.org/works/10.3389/fphys.2024.1409211",
+    "dest": "metadata/Sulaiman2024.json",
+    "kind": "json",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 8622
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1007/s13197-026-06662-3",
+    "dest": "metadata/Koyuncu2026.json",
+    "kind": "json",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 20640
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1007/s11947-026-04558-w",
+    "dest": "metadata/Naseer2026.json",
+    "kind": "json",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 80421
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.psj.2026.106570",
+    "dest": "metadata/Darmostuk2026.json",
+    "kind": "json",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 28613
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.domaniend.2025.106942",
+    "dest": "metadata/Sulaiman2025.json",
+    "kind": "json",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 11210
+  },
+  {
+    "url": "https://api.crossref.org/works/10.3390/ani14010119",
+    "dest": "metadata/Herrero2024.json",
+    "kind": "json",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 20359
+  },
+  {
+    "url": "https://mdpi-res.com/d_attachment/animals/animals-14-00871/article_deploy/animals-14-00871.pdf",
+    "dest": "papers/recent/2024_Dias_Hydroxytyrosol_Gut.pdf",
+    "kind": "pdf",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 834598
+  },
+  {
+    "url": "https://mdpi-res.com/d_attachment/antioxidants/antioxidants-12-01723/article_deploy/antioxidants-12-01723.pdf",
+    "dest": "papers/recent/2023_Vasilopoulou_ResinPurified_OliveLeafExtract.pdf",
+    "kind": "pdf",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 347318
+  },
+  {
+    "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2024.1409211/pdf",
+    "dest": "papers/recent/2024_Sulaiman_Oleuropein_Appetite.pdf",
+    "kind": "pdf",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 746485
+  },
+  {
+    "url": "https://link.springer.com/content/pdf/10.1007/s13197-026-06662-3.pdf",
+    "dest": "papers/recent/2026_Koyuncu_Phenolic_Composition.pdf",
+    "kind": "pdf",
+    "date": "2026-09-23",
+    "status": "failed",
+    "error": "Response is not a PDF"
+  },
+  {
+    "url": "https://link.springer.com/content/pdf/10.1007/s11947-026-04558-w.pdf",
+    "dest": "papers/recent/2026_Naseer_Polyphenol_Review.pdf",
+    "kind": "pdf",
+    "date": "2026-09-23",
+    "status": "failed",
+    "error": "Response is not a PDF"
+  },
+  {
+    "url": "https://thejaps.org.pk/docs/v-29-03/04.pdf",
+    "dest": "papers/recent/2019_Agah_HeatStress.pdf",
+    "kind": "pdf",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 310853
+  },
+  {
+    "url": "https://europepmc.org/articles/PMC12002778?pdf=render",
+    "dest": "papers/recent/2025_Negm_LeafPowder.pdf",
+    "kind": "pdf",
+    "date": "2026-09-23",
+    "status": "failed",
+    "error": "HTTP 403"
+  },
+  {
+    "url": "https://mdpi-res.com/d_attachment/molecules/molecules-26-04307/article_deploy/molecules-26-04307.pdf",
+    "dest": "papers/recent/2021_Balzan_VegetationWater.pdf",
+    "kind": "pdf",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 1413518
+  },
+  {
+    "url": "https://mdpi-res.com/d_attachment/animals/animals-14-00119/article_deploy/animals-14-00119.pdf",
+    "dest": "papers/recent/2024_Herrero_Hydroxytyrosol_Performance.pdf",
+    "kind": "pdf",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 424510
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10967364/fullTextXML",
+    "dest": "fulltext/PMC10967364.xml",
+    "kind": "xml",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 123330
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8591503/fullTextXML",
+    "dest": "fulltext/PMC8591503.xml",
+    "kind": "xml",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 79113
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6828163/fullTextXML",
+    "dest": "fulltext/PMC6828163.xml",
+    "kind": "xml",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 60892
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10514443/fullTextXML",
+    "dest": "fulltext/PMC10514443.xml",
+    "kind": "xml",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 112550
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8306377/fullTextXML",
+    "dest": "fulltext/PMC8306377.xml",
+    "kind": "xml",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 200850
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12002778/fullTextXML",
+    "dest": "fulltext/PMC12002778.xml",
+    "kind": "xml",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 156987
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12906177/fullTextXML",
+    "dest": "fulltext/PMC12906177.xml",
+    "kind": "xml",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 179955
+  },
+  {
+    "url": "https://api.crossref.org/works/10.3390/plants14172789",
+    "dest": "metadata/Paskovic2025.json",
+    "kind": "json",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 36557
+  },
+  {
+    "url": "https://mdpi-res.com/d_attachment/plants/plants-14-02789/article_deploy/plants-14-02789.pdf",
+    "dest": "papers/recent/2025_Paskovic_Polyphenols.pdf",
+    "kind": "pdf",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 2434032
+  },
+  {
+    "url": "https://api.crossref.org/works/10.3390/molecules28020707",
+    "dest": "metadata/Mechi2023.json",
+    "kind": "json",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 20644
+  },
+  {
+    "url": "https://mdpi-res.com/d_attachment/molecules/molecules-28-00707/article_deploy/molecules-28-00707.pdf",
+    "dest": "papers/recent/2023_Mechi_Polyphenols.pdf",
+    "kind": "pdf",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 559643
+  },
+  {
+    "url": "https://api.crossref.org/works/10.3390/foods12142684",
+    "dest": "metadata/CastilloLuna2023.json",
+    "kind": "json",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 15303
+  },
+  {
+    "url": "https://mdpi-res.com/d_attachment/foods/foods-12-02684/article_deploy/foods-12-02684.pdf",
+    "dest": "papers/recent/2023_CastilloLuna_Polyphenols.pdf",
+    "kind": "pdf",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 2185316
+  },
+  {
+    "url": "https://api.crossref.org/works/10.3390/plants11070865",
+    "dest": "metadata/CorAndrejc2022.json",
+    "kind": "json",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 17205
+  },
+  {
+    "url": "https://mdpi-res.com/d_attachment/plants/plants-11-00865/article_deploy/plants-11-00865.pdf",
+    "dest": "papers/recent/2022_CorAndrejc_Polyphenols.pdf",
+    "kind": "pdf",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 1268047
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1039/D4FB00044G",
+    "dest": "metadata/Markhali2024.json",
+    "kind": "json",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 10244
+  },
+  {
+    "url": "https://api.crossref.org/works/10.3390/antiox11061042",
+    "dest": "metadata/Papageorgiou2022.json",
+    "kind": "json",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 14329
+  },
+  {
+    "url": "https://mdpi-res.com/d_attachment/antioxidants/antioxidants-11-01042/article_deploy/antioxidants-11-01042.pdf",
+    "dest": "papers/recent/2022_Papageorgiou_Polyphenols.pdf",
+    "kind": "pdf",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 1718722
+  },
+  {
+    "url": "https://api.crossref.org/works/10.3390/separations10120587",
+    "dest": "metadata/Debs2023.json",
+    "kind": "json",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 41735
+  },
+  {
+    "url": "https://mdpi-res.com/d_attachment/separations/separations-10-00587/article_deploy/separations-10-00587.pdf",
+    "dest": "papers/recent/2023_Debs_Polyphenols.pdf",
+    "kind": "pdf",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 397306
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1371/journal.pbio.3000410",
+    "dest": "metadata/PercieduSert2020.json",
+    "kind": "json",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 25132
+  },
+  {
+    "url": "https://pubs.rsc.org/sl/content/articlepdf/2024/fb/d4fb00044g",
+    "dest": "papers/recent/2024_Markhali_Stability.pdf",
+    "kind": "pdf",
+    "date": "2026-09-23",
+    "status": "failed",
+    "error": "HTTP 403"
+  },
+  {
+    "url": "https://www.jstage.jst.go.jp/article/jpsa/55/2/55_0170059/_pdf/-char/en",
+    "dest": "papers/recent/2018_Leskovec_NutrientUtilization.pdf",
+    "kind": "pdf",
+    "date": "2026-09-23",
+    "status": "failed",
+    "error": "HTTP 500"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.animal.2026.101822",
+    "dest": "metadata/Correa2026.json",
+    "kind": "json",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 43983
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.livsci.2024.105534",
+    "dest": "metadata/Anover2024.json",
+    "kind": "json",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 20662
+  },
+  {
+    "url": "https://api.crossref.org/works/10.3390/agriculture15060662",
+    "dest": "metadata/Rezar2025.json",
+    "kind": "json",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 19395
+  },
+  {
+    "url": "https://dergipark.org.tr/en/download/article-file/5621631",
+    "dest": "papers/recent/2026_Hiba_Encapsulation.pdf",
+    "kind": "pdf",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 1117598
+  },
+  {
+    "url": "https://mdpi-res.com/d_attachment/agriculture/agriculture-15-00662/article_deploy/agriculture-15-00662.pdf",
+    "dest": "papers/recent/2025_Rezar_Leaves_Pulp.pdf",
+    "kind": "pdf",
+    "date": "2026-09-23",
+    "status": "saved",
+    "bytes": 269097
+  }
+]

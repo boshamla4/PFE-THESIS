@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://api.crossref.org/works/10.3390/plants14172789",
+    "dest": "metadata/Paskovic2025.json",
+    "kind": "json"
+  },
+  {
+    "url": "https://mdpi-res.com/d_attachment/plants/plants-14-02789/article_deploy/plants-14-02789.pdf",
+    "dest": "papers/recent/2025_Paskovic_Polyphenols.pdf",
+    "kind": "pdf"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.3390/molecules28020707",
+    "dest": "metadata/Mechi2023.json",
+    "kind": "json"
+  },
+  {
+    "url": "https://mdpi-res.com/d_attachment/molecules/molecules-28-00707/article_deploy/molecules-28-00707.pdf",
+    "dest": "papers/recent/2023_Mechi_Polyphenols.pdf",
+    "kind": "pdf"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.3390/foods12142684",
+    "dest": "metadata/CastilloLuna2023.json",
+    "kind": "json"
+  },
+  {
+    "url": "https://mdpi-res.com/d_attachment/foods/foods-12-02684/article_deploy/foods-12-02684.pdf",
+    "dest": "papers/recent/2023_CastilloLuna_Polyphenols.pdf",
+    "kind": "pdf"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.3390/plants11070865",
+    "dest": "metadata/CorAndrejc2022.json",
+    "kind": "json"
+  },
+  {
+    "url": "https://mdpi-res.com/d_attachment/plants/plants-11-00865/article_deploy/plants-11-00865.pdf",
+    "dest": "papers/recent/2022_CorAndrejc_Polyphenols.pdf",
+    "kind": "pdf"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1039/D4FB00044G",
+    "dest": "metadata/Markhali2024.json",
+    "kind": "json"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.3390/antiox11061042",
+    "dest": "metadata/Papageorgiou2022.json",
+    "kind": "json"
+  },
+  {
+    "url": "https://mdpi-res.com/d_attachment/antioxidants/antioxidants-11-01042/article_deploy/antioxidants-11-01042.pdf",
+    "dest": "papers/recent/2022_Papageorgiou_Polyphenols.pdf",
+    "kind": "pdf"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.3390/separations10120587",
+    "dest": "metadata/Debs2023.json",
+    "kind": "json"
+  },
+  {
+    "url": "https://mdpi-res.com/d_attachment/separations/separations-10-00587/article_deploy/separations-10-00587.pdf",
+    "dest": "papers/recent/2023_Debs_Polyphenols.pdf",
+    "kind": "pdf"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1371/journal.pbio.3000410",
+    "dest": "metadata/PercieduSert2020.json",
+    "kind": "json"
+  },
+  {
+    "url": "https://pubs.rsc.org/sl/content/articlepdf/2024/fb/d4fb00044g",
+    "dest": "papers/recent/2024_Markhali_Stability.pdf",
+    "kind": "pdf"
+  },
+  {
+    "url": "https://www.jstage.jst.go.jp/article/jpsa/55/2/55_0170059/_pdf/-char/en",
+    "dest": "papers/recent/2018_Leskovec_NutrientUtilization.pdf",
+    "kind": "pdf"
+  }
+]

@@ -1,0 +1,251 @@
+{
+  "date": "2026-09-23",
+  "interpretation": "Contrôle des champs déposés seulement ; absence de champ ne certifie pas absence de notice éditoriale.",
+  "records": [
+    {
+      "key": "Leskovec2018",
+      "doi": "10.2141/jpsa.0170059",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Sarica2018",
+      "doi": "10.24925/turjaf.v6i11.1537-1543.1782",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Erener2020",
+      "doi": "10.37496/rbz4920180300",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Pirman2021",
+      "doi": "10.2141/jpsa.0200026",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Xie2022",
+      "doi": "10.1080/1828051X.2022.2105265",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Erener2023",
+      "doi": "10.1007/s11250-023-03776-0",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Vasilopoulou2023",
+      "doi": "10.3390/antiox12091723",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Mahasneh2024",
+      "doi": "10.3389/fvets.2024.1410580",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Vasilopoulou2026",
+      "doi": "10.1016/j.rvsc.2025.105990",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Alfifi2025",
+      "doi": "10.1186/s12917-025-04663-6",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Hiba2026",
+      "doi": "10.33988/auvfd.1867391",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Negm2025",
+      "doi": "10.1016/j.psj.2025.105087",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Almuhayawi2023",
+      "doi": "10.1016/j.psj.2023.103054",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Dias2024",
+      "doi": "10.3390/ani14060871",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Shan2022",
+      "doi": "10.1016/j.psj.2021.101516",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Balzan2021",
+      "doi": "10.3390/molecules26144307",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Oke2017",
+      "doi": "10.3382/japr/pfx005",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Sulaiman2024",
+      "doi": "10.3389/fphys.2024.1409211",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Koyuncu2026",
+      "doi": "10.1007/s13197-026-06662-3",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Naseer2026",
+      "doi": "10.1007/s11947-026-04558-w",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Sevillano2026",
+      "doi": "10.1016/j.psj.2026.106570",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Sulaiman2025",
+      "doi": "10.1016/j.domaniend.2025.106942",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Dias2024Performance",
+      "doi": "10.3390/ani14010119",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Paskovic2025",
+      "doi": "10.3390/plants14172789",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Mechi2023",
+      "doi": "10.3390/molecules28020707",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "CastilloLuna2023",
+      "doi": "10.3390/foods12142684",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "CorAndrejc2022",
+      "doi": "10.3390/plants11070865",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Markhali2024",
+      "doi": "10.1039/d4fb00044g",
+      "update_to": null,
+      "relation": {
+        "has-review": [
+          {
+            "id-type": "doi",
+            "id": "10.1039/D4FB00044G/v2/decision1",
+            "asserted-by": "object"
+          },
+          {
+            "id-type": "doi",
+            "id": "10.1039/D4FB00044G/v2/response1",
+            "asserted-by": "object"
+          },
+          {
+            "id-type": "doi",
+            "id": "10.1039/D4FB00044G/v2/review1",
+            "asserted-by": "object"
+          },
+          {
+            "id-type": "doi",
+            "id": "10.1039/D4FB00044G/v1/review1",
+            "asserted-by": "object"
+          },
+          {
+            "id-type": "doi",
+            "id": "10.1039/D4FB00044G/v1/decision1",
+            "asserted-by": "object"
+          },
+          {
+            "id-type": "doi",
+            "id": "10.1039/D4FB00044G/v1/review2",
+            "asserted-by": "object"
+          }
+        ]
+      }
+    },
+    {
+      "key": "Papageorgiou2022",
+      "doi": "10.3390/antiox11061042",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Debs2023",
+      "doi": "10.3390/separations10120587",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "PercieduSert2020",
+      "doi": "10.1371/journal.pbio.3000410",
+      "update_to": null,
+      "relation": {
+        "has-preprint": [
+          {
+            "id-type": "doi",
+            "id": "10.1101/703181",
+            "asserted-by": "object"
+          }
+        ]
+      }
+    },
+    {
+      "key": "Correa2026",
+      "doi": "10.1016/j.animal.2026.101822",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Anover2024",
+      "doi": "10.1016/j.livsci.2024.105534",
+      "update_to": null,
+      "relation": {}
+    },
+    {
+      "key": "Rezar2025",
+      "doi": "10.3390/agriculture15060662",
+      "update_to": null,
+      "relation": {}
+    }
+  ]
+}

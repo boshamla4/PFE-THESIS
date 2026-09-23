@@ -1,0 +1,11 @@
+* text=auto
+*.tex text eol=lf
+*.bib text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.mjs text eol=lf
+*.py text eol=lf
+*.pdf binary
+*.doc binary
+*.docx binary
+*.zip binary

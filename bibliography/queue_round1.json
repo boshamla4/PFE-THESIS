@@ -1,0 +1,147 @@
+[
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.psj.2025.105087",
+    "dest": "metadata/Negm2025.json",
+    "kind": "json"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.psj.2023.103054",
+    "dest": "metadata/Almuhayawi2023.json",
+    "kind": "json"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.3390/ani14060871",
+    "dest": "metadata/Dias2024.json",
+    "kind": "json"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.psj.2021.101516",
+    "dest": "metadata/Shan2022.json",
+    "kind": "json"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.3390/molecules26144307",
+    "dest": "metadata/Balzan2021.json",
+    "kind": "json"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.30466/vrf.2018.77670.2033",
+    "dest": "metadata/Amini2019.json",
+    "kind": "json"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.3382/japr/pfx005",
+    "dest": "metadata/Oke2017.json",
+    "kind": "json"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.3389/fphys.2024.1409211",
+    "dest": "metadata/Sulaiman2024.json",
+    "kind": "json"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1007/s13197-026-06662-3",
+    "dest": "metadata/Koyuncu2026.json",
+    "kind": "json"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1007/s11947-026-04558-w",
+    "dest": "metadata/Naseer2026.json",
+    "kind": "json"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.psj.2026.106570",
+    "dest": "metadata/Darmostuk2026.json",
+    "kind": "json"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.domaniend.2025.106942",
+    "dest": "metadata/Sulaiman2025.json",
+    "kind": "json"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.3390/ani14010119",
+    "dest": "metadata/Herrero2024.json",
+    "kind": "json"
+  },
+  {
+    "url": "https://mdpi-res.com/d_attachment/animals/animals-14-00871/article_deploy/animals-14-00871.pdf",
+    "dest": "papers/recent/2024_Dias_Hydroxytyrosol_Gut.pdf",
+    "kind": "pdf"
+  },
+  {
+    "url": "https://mdpi-res.com/d_attachment/antioxidants/antioxidants-12-01723/article_deploy/antioxidants-12-01723.pdf",
+    "dest": "papers/recent/2023_Vasilopoulou_ResinPurified_OliveLeafExtract.pdf",
+    "kind": "pdf"
+  },
+  {
+    "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2024.1409211/pdf",
+    "dest": "papers/recent/2024_Sulaiman_Oleuropein_Appetite.pdf",
+    "kind": "pdf"
+  },
+  {
+    "url": "https://link.springer.com/content/pdf/10.1007/s13197-026-06662-3.pdf",
+    "dest": "papers/recent/2026_Koyuncu_Phenolic_Composition.pdf",
+    "kind": "pdf"
+  },
+  {
+    "url": "https://link.springer.com/content/pdf/10.1007/s11947-026-04558-w.pdf",
+    "dest": "papers/recent/2026_Naseer_Polyphenol_Review.pdf",
+    "kind": "pdf"
+  },
+  {
+    "url": "https://thejaps.org.pk/docs/v-29-03/04.pdf",
+    "dest": "papers/recent/2019_Agah_HeatStress.pdf",
+    "kind": "pdf"
+  },
+  {
+    "url": "https://europepmc.org/articles/PMC12002778?pdf=render",
+    "dest": "papers/recent/2025_Negm_LeafPowder.pdf",
+    "kind": "pdf"
+  },
+  {
+    "url": "https://mdpi-res.com/d_attachment/molecules/molecules-26-04307/article_deploy/molecules-26-04307.pdf",
+    "dest": "papers/recent/2021_Balzan_VegetationWater.pdf",
+    "kind": "pdf"
+  },
+  {
+    "url": "https://mdpi-res.com/d_attachment/animals/animals-14-00119/article_deploy/animals-14-00119.pdf",
+    "dest": "papers/recent/2024_Herrero_Hydroxytyrosol_Performance.pdf",
+    "kind": "pdf"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10967364/fullTextXML",
+    "dest": "fulltext/PMC10967364.xml",
+    "kind": "xml"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8591503/fullTextXML",
+    "dest": "fulltext/PMC8591503.xml",
+    "kind": "xml"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6828163/fullTextXML",
+    "dest": "fulltext/PMC6828163.xml",
+    "kind": "xml"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10514443/fullTextXML",
+    "dest": "fulltext/PMC10514443.xml",
+    "kind": "xml"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8306377/fullTextXML",
+    "dest": "fulltext/PMC8306377.xml",
+    "kind": "xml"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12002778/fullTextXML",
+    "dest": "fulltext/PMC12002778.xml",
+    "kind": "xml"
+  },
+  {
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12906177/fullTextXML",
+    "dest": "fulltext/PMC12906177.xml",
+    "kind": "xml"
+  }
+]

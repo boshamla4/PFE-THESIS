@@ -1,0 +1,27 @@
+[
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.animal.2026.101822",
+    "dest": "metadata/Correa2026.json",
+    "kind": "json"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1016/j.livsci.2024.105534",
+    "dest": "metadata/Anover2024.json",
+    "kind": "json"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.3390/agriculture15060662",
+    "dest": "metadata/Rezar2025.json",
+    "kind": "json"
+  },
+  {
+    "url": "https://dergipark.org.tr/en/download/article-file/5621631",
+    "dest": "papers/recent/2026_Hiba_Encapsulation.pdf",
+    "kind": "pdf"
+  },
+  {
+    "url": "https://mdpi-res.com/d_attachment/agriculture/agriculture-15-00662/article_deploy/agriculture-15-00662.pdf",
+    "dest": "papers/recent/2025_Rezar_Leaves_Pulp.pdf",
+    "kind": "pdf"
+  }
+]

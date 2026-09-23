@@ -1,0 +1,82 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[round,authoryear]{natbib}
+\usepackage[french]{babel}
+\usepackage[margin=25mm]{geometry}
+\usepackage{lmodern,microtype}
+\usepackage{booktabs,longtable,array,amsmath}
+\usepackage[hidelinks,breaklinks]{hyperref}
+\usepackage{url}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt}
+\setlength{\emergencystretch}{3em}
+\linespread{1.08}
+\clubpenalty=10000
+\widowpenalty=10000
+\renewcommand{\arraystretch}{1.16}
+\setcounter{tocdepth}{2}
+\newcommand{\titrethese}{Effet de l'incorporation des « extraits » de feuilles d'olivier dans l'eau de boisson du poulet chair}
+\hypersetup{pdftitle={Revue bibliographique - Mohamed Hamida - 2026/2027},pdfauthor={Mohamed Hamida},pdfsubject={Feuilles d'olivier, polyphénols et poulet de chair}}
+\begin{document}
+\hypersetup{pageanchor=false}
+\begin{titlepage}
+\centering
+{\large École nationale de médecine vétérinaire\\de Sidi Thabet -- Tunisie\par}
+\vspace{1.3cm}
+{\large Année universitaire 2026/2027\par}
+\vspace{1.5cm}
+{\LARGE\bfseries \titrethese\par}
+\vspace{1.4cm}
+{\Large Mohamed Hamida\par}
+\vspace{1.4cm}
+{\Large\bfseries Revue bibliographique\par}
+\vspace{0.3cm}
+{\large Premier manuscrit développé\par}
+\vfill
+\begin{minipage}{0.89\textwidth}
+\small
+Recherche documentaire arrêtée au 23 septembre 2026. Rédaction préparatoire à la partie bibliographique de la thèse vétérinaire, inspirée de l'organisation des deux thèses ENMV fournies. Le titre reproduit celui du document PDF de référence. La partie expérimentale sera rédigée à partir du protocole et des résultats transmis par Mohamed Hamida. Les consignes institutionnelles actuelles et la page de garde définitive restent à appliquer avant dépôt.
+\end{minipage}
+\vspace{0.8cm}
+\end{titlepage}
+\hypersetup{pageanchor=true}
+\pagenumbering{roman}
+{\small\tableofcontents}
+\clearpage
+\section*{Abréviations et conventions}
+\addcontentsline{toc}{section}{Abréviations et conventions}
+\begin{tabular}{@{}p{2.3cm}p{12.6cm}@{}}
+AGCC & Acides gras à chaîne courte\\
+ARNm & Acide ribonucléique messager\\
+GMQ / ADG & Gain moyen quotidien / \textit{average daily gain}\\
+HT & Hydroxytyrosol\\
+IC / FCR & Indice de consommation / \textit{feed conversion ratio}\\
+IL & Interleukine\\
+MDA & Malondialdéhyde\\
+OLE & \textit{Olive leaf extract} : extrait de feuilles d'olivier\\
+SOD / GPx & Superoxyde dismutase / glutathion peroxydase\\
+TBARS & Substances réactives à l'acide thiobarbiturique\\
+UFC & Unités formant colonie\\
+16S & Gène de l'ARN ribosomique 16S, utilisé pour caractériser des communautés bactériennes\\
+\end{tabular}
+
+\vspace{0.7cm}
+Les références sont citées selon le système auteur--année. Les lettres éventuellement ajoutées après une année distinguent des publications différentes du même premier auteur. Les valeurs numériques citées sont celles des sources identifiées ; aucune n'est issue de l'expérimentation de Mohamed Hamida.
+
+Le mot \textit{significatif} se rapporte à l'analyse statistique présentée par les auteurs. Une absence de différence statistiquement détectée n'établit pas l'équivalence entre traitements. Les résultats de résumés seuls sont signalés comme tels. Les fiches de lecture externes au manuscrit consignent les incohérences éditoriales et les limites d'accès de manière plus détaillée.
+\clearpage
+\pagenumbering{arabic}
+\input{chapters/introduction}
+\input{chapters/methode}
+\input{chapters/polyphenols}
+\input{chapters/performance}
+\input{chapters/intestin}
+\input{chapters/synthese}
+\clearpage
+\addcontentsline{toc}{section}{Références bibliographiques}
+\renewcommand{\bibfont}{\small}
+\setlength{\bibsep}{3pt}
+\bibliographystyle{abbrvnat}
+\bibliography{../bibliography/references}
+\end{document}
