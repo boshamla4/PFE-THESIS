@@ -67,6 +67,7 @@ jobs:
           bibtex revue_bibliographique
           pdflatex -interaction=nonstopmode -halt-on-error revue_bibliographique.tex
           pdflatex -interaction=nonstopmode -halt-on-error revue_bibliographique.tex
+          pdflatex -interaction=nonstopmode -halt-on-error revue_bibliographique.tex
           cp revue_bibliographique.pdf ../inspection/
           cp revue_bibliographique.toc ../inspection/
           cp revue_bibliographique.log ../inspection/
