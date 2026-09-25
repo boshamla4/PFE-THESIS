@@ -2,42 +2,64 @@
 
 Dépôt privé : [boshamla4/PFE-THESIS](https://github.com/boshamla4/PFE-THESIS).
 
-Projet de thèse de **Mohamed Hamida**, année universitaire **2026/2027**, rédigé en français et organisé à partir des deux thèses ENMV Sidi Thabet fournies.
+Projet de thèse de **Mohamed Hamida**, année universitaire **2026/2027**, en français.
 
 Titre de travail : **« Effet de l’incorporation des “extraits” de feuilles d’olivier dans l’eau de boisson du poulet chair »**.
 
-## État au 23 septembre 2026
+## État de travail — 25 septembre 2026
 
-Le premier manuscrit bibliographique compte **22 pages et 37 références citées**. Il couvre les polyphénols, la préparation et les doses d’extraits, la croissance, le gain moyen quotidien (GMQ), l’indice de consommation, les paramètres sanguins, l’immunité, l’intégrité intestinale et le microbiote. **20 PDF d’articles et 7 textes intégraux XML** sont conservés avec les notes de lecture et les traces de recherche.
+La branche `main` conserve encore la version bibliographique initiale de 22 pages. L'extension demandée par l'encadrement est développée sur :
 
-Il s’agit d’une revue narrative structurée à approfondir. La thèse complète attend le protocole et les résultats expérimentaux de Mohamed, ainsi que la validation des consignes ENMV actuelles par l’encadrant.
+`bibliography-superset-expansion`
+
+PR brouillon : **#1 — Expand bibliography into supervisor-requested superset structure**.
+
+La version étendue compilée compte actuellement **37 pages physiques** et **53 références BibTeX**. Elle applique la stratégie « inclure largement d'abord, élaguer ensuite » : le noyau scientifique initial est conservé et complété par les rappels vétérinaires, nutritionnels, botaniques et technologiques présents dans les thèses de référence.
+
+## Principaux ajouts
+
+- appareil digestif et microbiote du poulet ;
+- besoins nutritionnels, eau et rationnement ;
+- matières premières, facteurs antinutritionnels, formulation et forme physique de l'aliment ;
+- promoteurs de croissance et alternatives ;
+- olivier/feuille en contexte tunisien ;
+- morphologie foliaire et localisation tissulaire de polyphénols ;
+- extraction détaillée ;
+- propriétés biologiques avec niveaux de preuve ;
+- mortalité, carcasse, digestibilité/utilisation des nutriments et qualité de viande ;
+- séparation renforcée entre rappels généraux et résultats intestinaux spécifiques aux traitements.
+
+## Sources d'inspiration
+
+- thèse Ben Brahim Amine 2018 ;
+- thèse Heni Nabil 2012/2013 ;
+- cinq tables des matières photographiées fournies le 25 septembre 2026.
+
+Les photographies ont une transcription propre dans `source d'inspiration/tables_matieres_photos_2026.md` et des **reconstructions vectorielles propres au format SVG** dans `source d'inspiration/tables_matieres_photos_2026/`.
+
+La matrice de fusion se trouve dans `MATRICE_COUVERTURE_FUSION.md` et l'inspection détaillée des sources dans `INSPECTION_SOURCES_FUSION.md`.
 
 ## Accès aux documents
 
-- [Manuscrit bibliographique PDF](output/pdf/revue_bibliographique.pdf)
-- [Source LaTeX principale](thesis/revue_bibliographique.tex) et [chapitres](thesis/chapters/)
-- [Archive des sources LaTeX](output/revue_bibliographique_sources.zip)
-- [Bibliographie BibTeX](bibliography/references.bib), importable dans Zotero
-- [Registre de lecture et remarques critiques](bibliography/READING_REGISTER.md)
-- [Articles PDF téléchargés](bibliography/papers/) et [textes XML](bibliography/fulltext/)
-- [Protocole de recherche](bibliography/SEARCH_PROTOCOL.md) et [recherches prioritaires restantes](bibliography/NEXT_RESEARCH.md)
-- [Point de reprise](ETAT_DU_PROJET.md), [cadrage du projet](PROJECT_BRIEF.md) et [informations attendues pour la thèse](INFORMATIONS_POUR_LA_THESE.md)
-- [Thèses sources](source%20d'inspiration/), conservées dans leur version originale
+- source principale : `thesis/revue_bibliographique.tex`
+- chapitres : `thesis/chapters/`
+- bibliographie : `bibliography/references.bib`
+- articles archivés : `bibliography/papers/`
+- textes XML : `bibliography/fulltext/`
+- recherches et registres : `bibliography/`
+- sources d'inspiration : `source d'inspiration/`
 
-Les DOI, niveaux de consultation et limites des études sont indiqués dans le registre. Les URL d’origine et empreintes des PDF figurent dans le [manifeste des téléchargements](bibliography/download_manifest.json). Les documents tiers restent soumis aux droits de leurs auteurs et éditeurs.
+Le PDF étendu est compilé automatiquement par GitHub Actions sur la branche de travail. Le fichier historique présent sous `output/pdf/` reste celui de la version précédente tant que la branche n'est pas finalisée et fusionnée.
 
-## Compilation
+## Compilation locale
 
-Avec une distribution LaTeX comprenant `pdflatex`, `bibtex`, `natbib` et le français de `babel` (MiKTeX utilisé pour cette version), lancer depuis la racine du projet :
+Depuis `thesis/` :
 
-```powershell
-Set-Location thesis
+```text
 pdflatex -interaction=nonstopmode -halt-on-error revue_bibliographique.tex
 bibtex revue_bibliographique
 pdflatex -interaction=nonstopmode -halt-on-error revue_bibliographique.tex
 pdflatex -interaction=nonstopmode -halt-on-error revue_bibliographique.tex
 ```
 
-Après contrôle du rendu, copier `thesis/revue_bibliographique.pdf` vers `output/pdf/revue_bibliographique.pdf`. Les fichiers intermédiaires de compilation et `tmp/` sont exclus du dépôt ; les sources, articles et livrables sont conservés.
-
-La version historique de démarrage reste disponible dans `thesis/bibliographie_initiale.tex` et `output/pdf/bibliographie_initiale.pdf`. Le document de 22 pages ci-dessus est la version actuelle à relire.
+La partie expérimentale ne doit être rédigée qu'à partir du protocole et des données propres à Mohamed.
