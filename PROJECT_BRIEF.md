@@ -1,72 +1,69 @@
 # Thèse de Mohamed Hamida
 
-Dernière mise à jour : 23 septembre 2026.
+Dernière mise à jour : 25 septembre 2026.
 
 ## Décisions confirmées
 
 - Étudiant : Mohamed Hamida.
 - Année universitaire : 2026/2027.
 - Langue : français.
-- Présentation : inspirée des thèses de l'ENMV de Sidi Thabet fournies dans ce dossier. Les consignes institutionnelles actuelles restent à vérifier.
-- Livrables : sources LaTeX, base bibliographique `.bib`, PDF compilé et articles accessibles dans un dossier séparé.
-- Titre de travail retenu, reproduisant celui de la couverture du PDF : « Effet de l’incorporation des “extraits” de feuilles d’olivier dans l’eau de boisson du poulet chair ».
-- Priorité : revue bibliographique. Les résultats expérimentaux seront fournis ultérieurement.
+- Titre de travail : « Effet de l’incorporation des “extraits” de feuilles d’olivier dans l’eau de boisson du poulet chair ».
+- Priorité actuelle : partie bibliographique.
+- Stratégie de l'encadrement : construire d'abord une **version superset** réunissant les thèmes pertinents rencontrés dans les thèses de référence, puis retirer ou condenser ce qui est secondaire après relecture.
+- Les résultats expérimentaux de Mohamed ne sont pas encore disponibles. Aucun résultat, groupe, dose, effectif ou test statistique propre à son essai ne doit être inventé.
 
-## Périmètre retenu
+## Version bibliographique étendue
 
-À la demande de l'utilisateur, les axes ci-dessous constituent désormais le périmètre de la recherche bibliographique et du plan de thèse :
+Branche de travail : `bibliography-superset-expansion`, PR brouillon #1.
 
-- Préparation et dose des extraits de feuilles d'olivier ; composition et caractérisation des polyphénols.
-- Croissance et performances zootechniques, dont le gain moyen quotidien (GMQ) et l'indice de consommation (IC ; FCR dans la littérature anglophone).
-- Marqueurs sanguins et immunité.
-- Intégrité intestinale et microbiote intestinal, notamment cæcal.
+État compilé au 25 septembre 2026 :
+- **37 pages physiques** ;
+- 29 pages de corps bibliographique avant les références ;
+- références sur les pages 30 à 33 ;
+- **53 notices dans `bibliography/references.bib`** ;
+- 20 PDF et 7 textes intégraux XML archivés dans le noyau documentaire initial ; les références ajoutées pendant l'extension ne disposent pas toutes encore d'une copie locale.
 
-Ce périmètre est retenu pour le travail actuel et pourra évoluer si le protocole apporte de nouvelles précisions. Le protocole et les résultats de Mohamed ne sont pas encore disponibles : ces thèmes ne permettent pas d'affirmer quelles mesures ont effectivement été réalisées. Aucun résultat, effectif, traitement ou test statistique ne doit être inventé.
+## Périmètre bibliographique maître
 
-Lors de la synthèse, distinguer les dénombrements de groupes bactériens par culture de la caractérisation du microbiote par des méthodes moléculaires ; distinguer également l'histomorphologie intestinale des mesures fonctionnelles de perméabilité ou de barrière. Nommer chaque résultat d'après la méthode réellement employée.
+1. Introduction et problématique.
+2. Particularités anatomo-physiologiques digestives du poulet de chair.
+3. Microbiote digestif et colonisation.
+4. Besoins alimentaires : énergie, protéines/acides aminés, minéraux, vitamines et eau.
+5. Rationnement pratique : démarrage, croissance, finition.
+6. Matières premières, facteurs antinutritionnels, formulation et présentation physique de l'aliment.
+7. Antibiotiques promoteurs de croissance et alternatives : enzymes, acides organiques, probiotiques, prébiotiques/symbiotiques et phytogéniques.
+8. Olivier et feuilles d'olivier en contexte tunisien : systématique, répartition, diversité variétale, morphologie et composition.
+9. Polyphénols : familles chimiques, localisation tissulaire, oléuropéine, hydroxytyrosol et caractérisation.
+10. Extraction : séchage, solvant, température, pH, macération, Soxhlet, méthodes contemporaines, standardisation et stabilité.
+11. Propriétés biologiques générales avec séparation des niveaux de preuve.
+12. Effets chez le poulet : croissance, GMQ, consommation, IC, mortalité, carcasse, utilisation des nutriments, qualité de viande, paramètres sanguins, statut oxydatif et immunité.
+13. Intégrité intestinale : mesures macroscopiques, histomorphologie, barrière, microbiologie et activité fermentaire.
+14. Synthèse critique, limites, transposabilité et positionnement de l'étude.
+15. Partie expérimentale, résultats et discussion uniquement lorsque les données propres à Mohamed seront disponibles.
 
 ## Sources locales examinées
 
-1. Ben Brahim Amine, thèse vétérinaire ENMV, soutenue le 4 juillet 2018, PDF de 89 pages. Plan : introduction, partie bibliographique, partie expérimentale, résultats, discussion, conclusion, annexes et références. L'essai décrit quatre groupes recevant de l'eau sans extrait ou avec 5, 10 et 20 mL/L ; croissance, consommation, carcasse, flore cæcale et lipides sanguins figurent parmi les critères étudiés. Les références atteignent 2017.
-2. Heni Nabil, thèse vétérinaire ENMV, année 2012/2013, soutenue le 18 mai 2013, chapitres Word. Titre : « Effets des “extraits” de feuilles d’olivier Olea europea L. sur la microflore caecale et sur les performances zootechniques du poulet de chair ». Le plan comprend une partie sur les feuilles et leurs composés phénoliques, puis l'alimentation du poulet et une étude expérimentale. Les références relevées atteignent 2012.
+1. **Ben Brahim Amine**, thèse vétérinaire ENMV, 2018, PDF de 89 pages. Le travail porte notamment sur des extraits de feuilles distribués dans l'eau et comporte des critères de croissance, consommation, mortalité, carcasse, morphométrie digestive, flore cæcale et paramètres lipidiques.
+2. **Heni Nabil**, thèse vétérinaire ENMV, 2012/2013. Les chapitres Word ont été inspectés directement. Outre le plan apparent dans la table des matières, le texte développe l'eau comme besoin nutritionnel, les matières premières et leurs facteurs antinutritionnels, la présentation physique de l'aliment, plusieurs méthodes de caractérisation des polyphénols, ainsi que des essais aqueux/éthanoliques et des critères digestifs et microbiologiques.
+3. **Cinq photographies de tables des matières** fournies le 25 septembre 2026. Elles ont été transcrites puis reconstruites proprement en SVG dans le dossier des sources d'inspiration.
 
-Ces documents guident le niveau de détail et l'organisation. Les textes et figures de la nouvelle thèse doivent être originaux ou correctement attribués. La graphie scientifique retenue dans le nouveau texte sera *Olea europaea* L. ; les titres de sources restent fidèles aux originaux.
+Ces documents servent à définir le **périmètre** ; leur texte n'est pas copié dans le nouveau manuscrit. Les développements sont fondés sur des sources scientifiques ou institutionnelles vérifiables.
 
-## Structure envisagée
+## Principes de rédaction
 
-1. Introduction générale et problématique.
-2. Olivier, feuilles et valorisation en contexte tunisien, avec données récentes vérifiées.
-3. Polyphénols des feuilles, variabilité des matières premières et caractérisation des extraits.
-4. Préparation, stabilité et administration par l'eau de boisson ; comparabilité des doses.
-5. Croissance, GMQ, ingestion et indice de consommation ; définition des périodes et des méthodes de calcul.
-6. Intégrité intestinale : histomorphologie, barrière et mesures fonctionnelles, selon les critères effectivement étudiés.
-7. Microbiote intestinal : méthodes d'étude, dénombrements et profils de communautés, en distinguant les niveaux d'information.
-8. Marqueurs sanguins, statut oxydatif et immunité, en distinguant ces catégories.
-9. Synthèse critique des études, limites et question de recherche propre à Mohamed.
-10. Partie expérimentale, résultats et discussion comparative lorsque le protocole et les données seront disponibles.
+- distinguer feuille entière, poudre, extrait, fraction purifiée et molécule isolée ;
+- distinguer concentration distribuée et exposition réellement ingérée ;
+- distinguer propriété générale/in vitro, données animales hors volaille, données humaines et résultats chez le poulet ;
+- distinguer dénombrements bactériens ciblés et caractérisation communautaire du microbiote ;
+- distinguer poids/longueur digestive, histomorphologie et mesures fonctionnelles de barrière ;
+- conserver les résultats nuls ou défavorables ;
+- éviter toute inférence expérimentale concernant Mohamed en l'absence de protocole et de données.
 
-## Informations attendues
+## Informations encore attendues
 
-- Protocole réel : extrait, préparation et teneur en polyphénols si mesurée, doses, calendrier, souche, sexe, groupes, répétitions, unités expérimentales, alimentation, conditions d'élevage et mesures effectivement réalisées.
-- Méthodes : périodes de calcul du GMQ et de l'IC, corrections de mortalité éventuelles, sites et dates de prélèvement, techniques intestinales et microbiologiques, analyses sanguines et immunitaires.
-- Question scientifique, hypothèses et différence précise par rapport aux deux thèses sources ; autorisation éthique ou cadre institutionnel de l'expérimentation.
-- Encadrant, laboratoire, consignes ENMV actuelles, longueur attendue et échéance.
-- Données brutes, unités, dictionnaire des variables et traitements statistiques déjà effectués, au moment de la partie expérimentale.
-- Accès institutionnel éventuel aux textes intégraux non accessibles publiquement.
-
-Ces éléments n'empêchent pas la recherche bibliographique générale.
-
-La liste détaillée à transmettre à Mohamed et à son encadrant figure dans [INFORMATIONS_POUR_LA_THESE.md](INFORMATIONS_POUR_LA_THESE.md).
-
-## Outils
-
-MiKTeX, les moteurs LaTeX, BibTeX, Biber et les utilitaires PDF sont présents sur cette machine. Le plugin PDF et la lecture des documents locaux sont disponibles. Zotero 10.0.3 a été installé le 23 septembre 2026 ; son exécutable a été vérifié dans `C:\Program Files\Zotero\zotero.exe`. La bibliothèque n'a pas encore été importée et la synchronisation n'est pas configurée ; le fichier `.bib` reste disponible pour import. Aucun plugin Zotero n'a été trouvé dans la recherche de catalogue effectuée. Scite est connecté et a été utilisé pour deux appels ciblés le 23 septembre 2026. L’utilisateur dispose initialement de 25 appels gratuits et souhaite les économiser ; aucun achat réalisé. Un connecteur de stockage n'est utile que si des sources supplémentaires se trouvent dans le compte correspondant.
-
-## État du travail
-
-Le dossier `bibliography` constitue un premier repérage documenté, pas une revue exhaustive achevée. La sélection doit être élargie, les textes disponibles lus de façon critique et la recherche actualisée avant la remise en 2027.
-
-
-## Extension bibliographique du 23 septembre 2026
-
-37 références sélectionnées, 20 PDF téléchargés et 7 textes intégraux XML. 48 notices PubMed dépistées par titre ; 9 résultats intestinaux déjà compris dans les 48. Deux appels Scite ont servi au contrôle groupé et à la recherche de citations. Le manuscrit développé est assemblé depuis thesis/revue_bibliographique.tex ; le dossier initial de 6 pages reste historique. La suite documentaire est consignée dans bibliography/NEXT_RESEARCH.md.
+- protocole réel : produit, préparation, dose, calendrier, souche, sexe, groupes, répétitions, unité expérimentale, conditions d'élevage ;
+- mesures réellement réalisées, unités et méthodes ;
+- données brutes, exclusions et mortalité ;
+- encadrant, laboratoire, échéance et consignes ENMV actuelles ;
+- cadre éthique/institutionnel applicable ;
+- choix définitif des sections à conserver après retour de l'encadrant.
