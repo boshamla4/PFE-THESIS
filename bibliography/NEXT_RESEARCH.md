@@ -18,7 +18,7 @@
 
 ## Manuscrit et expérimentation
 
-- Confronter le premier manuscrit au protocole réel : préparation, doses, groupes/répétitions, prélèvements et critères principaux.
-- Compléter le contexte tunisien documenté et les rappels physiologiques utiles aux méthodes réellement employées.
+- Confronter le manuscrit étendu au protocole réel : préparation, doses, groupes/répétitions, prélèvements et critères principaux.
+- Ajuster la profondeur des nouveaux rappels tunisiens, digestifs et nutritionnels selon le retour de l’encadrant.
 - Faire relire par l'encadrant et confirmer les consignes ENMV 2026/2027, le style des références et la page de garde.
-- Actualiser la recherche avant soumission ; aucune publication postérieure au23 septembre 2026 n'est réputée couverte.
+- Actualiser la recherche avant soumission ; la recherche PubMed initiale s'arrête au 23 septembre 2026 et les contrôles de contexte au 25 septembre.

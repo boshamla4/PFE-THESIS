@@ -1,6 +1,6 @@
 # Protocole de recherche bibliographique
 
-Version actualisée du 23 septembre 2026. Auteur de la future thèse : Mohamed Hamida. Année universitaire : 2026/2027. Périmètre élargi selon les thèmes retenus par l'utilisateur.
+Version actualisée du 25 septembre 2026 ; requêtes PubMed initiales du 23 septembre conservées. Auteur de la future thèse : Mohamed Hamida. Année universitaire : 2026/2027. Périmètre élargi selon les thèmes retenus par l'utilisateur.
 
 ## Question de recherche bibliographique
 
@@ -16,7 +16,13 @@ Actualisation prioritaire : 2018 au 23 septembre 2026, avec attention particuli�
 
 ## Sources et couverture
 
-### Extension exécutée le 23 septembre 2026
+### Livraison et contrôle de l'extension — 25 septembre 2026
+
+La base livrée comporte 61 références : 37 dans le noyau initial, 21 références de contexte ajoutées pendant l'élargissement, puis trois consensus de définition des probiotiques/prébiotiques/synbiotiques. Les métadonnées et passages utilisés ont été contrôlés auprès des éditeurs, de Crossref, de PubMed/Europe PMC et des documents officiels Aviagen, selon les niveaux indiqués au registre. Ces vérifications ciblées ne sont pas une nouvelle interrogation systématique de PubMed. Les 48 notices initiales ne sont donc pas recomptées.
+
+Onze PDF supplémentaires (neuf articles et deux guides) et neuf XML ont été archivés, soit 31 PDF et 16 XML au total. Six téléchargements PDF ont échoué parmi les liens testés ; les tentatives et versions accessibles sont consignées dans `searches/2026-09-25/`. Les notes d'audit de l'extension et de nutrition conservent les sources et les limites de consultation. Aucun nouvel appel Scite n'a été utilisé pour cette livraison.
+
+### Historique : extension exécutée le 23 septembre 2026
 
 Deux requêtes PubMed E-utilities, filtre de publication 2018-01-01 à 2026-09-23 :48 notices générales et9 notices intestinales déjà comprises dans les 48. Les48 titres ont été dépistés une seule fois :7 candidates directes,28 contextuelles,13 exclusions,12 ambiguïtés. Il ne s'agit pas d'une sélection finale sur texte intégral. Requêtes exactes, traductions et identifiants : `searches/2026-09-23/search_log.json` et `pubmed_title_screening.json`.
 

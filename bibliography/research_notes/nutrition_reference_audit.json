@@ -1,0 +1,66 @@
+{
+  "checked_on": "2026-09-25",
+  "new_references": [
+    {
+      "key": "Hill2014",
+      "doi": "10.1038/nrgastro.2014.66",
+      "type": "consensus definition; not a broiler efficacy trial",
+      "publisher_url": "https://www.nature.com/articles/nrgastro.2014.66",
+      "pdf_url": "https://www.nature.com/articles/nrgastro.2014.66.pdf",
+      "alternative_pdf_url": "https://isappscience.org/wp-content/uploads/2018/11/hill-ISAPP-consensus-panel-probiotic-definition-141.pdf",
+      "access_level": "Publisher full HTML consulted: abstract, introduction, Box 1, definition and evidence requirements; publisher PDF resolves, 9 pages.",
+      "used_for": "Definition requires viable microorganisms, adequate administered amount and host health benefit. Used as terminological foundation, not evidence of efficacy of olive leaves."
+    },
+    {
+      "key": "Gibson2017",
+      "doi": "10.1038/nrgastro.2017.75",
+      "type": "consensus definition; not a broiler efficacy trial",
+      "publisher_url": "https://www.nature.com/articles/nrgastro.2017.75",
+      "pdf_url": "https://www.nature.com/articles/nrgastro.2017.75.pdf",
+      "access_level": "Publisher HTML blocked by redirect; original publisher PDF accessible, 12 pages. Abstract and definition/evidence passages consulted, including applicability to production animals.",
+      "used_for": "Selective use by host microorganisms and demonstrated health benefit are both required; not limited to carbohydrates. A bacterial-count change alone does not establish that an olive polyphenol preparation is prebiotic.",
+      "metadata_note": "Full author list and DOI read on PDF first page; year, volume and start page on running header; 12-page article, 491–502. Crossmark lists publication 2017-06-14."
+    },
+    {
+      "key": "Swanson2020",
+      "doi": "10.1038/s41575-020-0344-2",
+      "type": "consensus definition; not a broiler efficacy trial",
+      "publisher_url": "https://www.nature.com/articles/s41575-020-0344-2",
+      "pdf_url": "https://www.nature.com/articles/s41575-020-0344-2.pdf",
+      "access_level": "Publisher full HTML consulted: abstract, Box 1, updated definition, complementary/synergistic distinctions and evidence requirements; publisher PDF resolves, 15 pages.",
+      "used_for": "Updated definition of synbiotic and distinction between complementary and synergistic formulations. Benefit must be demonstrated in target host."
+    }
+  ],
+  "existing_references_rechecked": [
+    {
+      "key": "Aviagen2025",
+      "url": "https://aviagen.com/assets/Tech_Center/Ross_Broiler/Aviagen-ROSS-Broiler-Handbook-EN.pdf",
+      "local_verification_pdf": "tmp/Aviagen2025_verify.pdf",
+      "local_verification_text": "tmp/Aviagen2025_verify.txt",
+      "access_level": "Official full PDF downloaded successfully by normal HTTP after web tool returned 403. Targeted sections consulted: pages 24, 51–52, 54, 56–57 and 60. Cover and copyright verify 2025, edition code 0325-V1.",
+      "support": "Starter at least 10 days (p52); finisher feeds represent most total feed intake and feeding cost (p52); feeding strategy depends on product, economics, sex, weight and age (p51); pellet/fines/particle-size effects (p54); fungal/toxin grain quality and digestible nutrient balance (p56); unrestricted quality water and measurement, spillage, heat, drinking systems (p57,60)."
+    },
+    {
+      "key": "Aviagen2022",
+      "url": "https://aviagen.com/assets/Tech_Center/Ross_Broiler/Ross-BroilerNutritionSpecifications2022-EN.pdf",
+      "local_verification_pdf": "tmp/Aviagen2022_verify.pdf",
+      "local_verification_text": "tmp/Aviagen2022_verify.txt",
+      "access_level": "Official full PDF downloaded successfully; introduction and phase-specific tables consulted. Cover, footers and copyright verify 2022.",
+      "support": "Guidelines require adjustment to local conditions, final product, ingredients, sex, age/weight and carcass objectives. Standardized ileal digestible amino acids, phase-specific AME, minerals and vitamin recommendations."
+    },
+    {
+      "key": "Gadde2017",
+      "url": "https://doi.org/10.1017/S1466252316000207",
+      "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/834725E86141F209DDDE7BBA11A98635/S1466252316000207a.pdf/alternatives-to-antibiotics-for-maximizing-growth-performance-and-feed-efficiency-in-poultry-a-review.pdf",
+      "access_level": "Publisher full PDF accessible (20 pages); abstract and mechanism/alternative categories sections consulted, not all individual trial tables.",
+      "support": "Historically proposed AGP mechanisms, uncertainty over a unique mechanism, alternative classes and context-dependent efficacy."
+    },
+    {
+      "key": "RavindranAbdollahi2021",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8532940/",
+      "access_level": "Full primary review text from PMC returned in web search; abstract, introduction, maturation and nutrient utilization/conclusion sections consulted. Direct publisher HTML returned 429, subsequent PMC direct open gave bot-check.",
+      "support": "Early digestive immaturity; changing enzyme secretion and absorptive capacity; early feeding/water importance; early growth effects not necessarily maintained at market age."
+    }
+  ],
+  "scite_calls": 0
+}

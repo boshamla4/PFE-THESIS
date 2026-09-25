@@ -1,0 +1,579 @@
+[
+  {
+    "key": "Svihus2014",
+    "year": 2014,
+    "doi": "10.3382/japr.2014-00937",
+    "title": "Function of the digestive system",
+    "verifiedMetadata": true,
+    "metadataSource": "Crossref DOI record; publisher/Europe PMC cross-check where available",
+    "readLevel": "metadata_only",
+    "checkedClaims": [],
+    "caveat": "Digestive physiology review. Detailed nutrition claim checks delegated to the nutrition reviewer.",
+    "sourceUrl": "https://doi.org/10.3382/japr.2014-00937",
+    "pdfUrl": null,
+    "checkedOn": "2026-09-25",
+    "verifiedAuthors": [
+      "Birger Svihus"
+    ],
+    "verifiedCitation": {
+      "volume": "23",
+      "issue": "2",
+      "page": "306-314"
+    }
+  },
+  {
+    "key": "RavindranAbdollahi2021",
+    "year": 2021,
+    "doi": "10.3390/ani11102795",
+    "title": "Nutrition and Digestive Physiology of the Broiler Chick: State of the Art and Outlook",
+    "verifiedMetadata": true,
+    "metadataSource": "Crossref DOI record; publisher/Europe PMC cross-check where available",
+    "readLevel": "targeted_fulltext_checked_by_nutrition_reviewer",
+    "checkedClaims": [
+      "Early digestive immaturity; changing enzyme secretion and absorptive capacity; early feeding/water importance; early growth effects not necessarily maintained at market age."
+    ],
+    "caveat": "Review of early chick digestion, not an olive leaf intervention. Early developmental effects need not persist to market age.",
+    "sourceUrl": "https://doi.org/10.3390/ani11102795",
+    "pdfUrl": "https://europepmc.org/articles/PMC8532940?pdf=render",
+    "checkedOn": "2026-09-25",
+    "verifiedAuthors": [
+      "Velmurugu Ravindran",
+      "M. Reza Abdollahi"
+    ],
+    "verifiedCitation": {
+      "volume": "11",
+      "issue": "10",
+      "page": "2795"
+    },
+    "pmcid": "PMC8532940",
+    "fulltextXmlLocal": "fulltext/context/RavindranAbdollahi2021.xml",
+    "crossReviewEvidence": "Full primary review text from PMC returned in web search; abstract, introduction, maturation and nutrient utilization/conclusion sections consulted. Direct publisher HTML returned 429, subsequent PMC direct open gave bot-check."
+  },
+  {
+    "key": "Oakley2014",
+    "year": 2014,
+    "doi": "10.1111/1574-6968.12608",
+    "title": "The chicken gastrointestinal microbiome",
+    "verifiedMetadata": true,
+    "metadataSource": "Crossref DOI record; publisher/Europe PMC cross-check where available",
+    "readLevel": "abstract_checked",
+    "checkedClaims": [
+      "Chicken gastrointestinal microbiome, spatial/temporal variability and relationships with nutrition and immunity."
+    ],
+    "caveat": "Contextual review; does not demonstrate an olive leaf effect.",
+    "sourceUrl": "https://doi.org/10.1111/1574-6968.12608",
+    "pdfUrl": null,
+    "checkedOn": "2026-09-25",
+    "verifiedAuthors": [
+      "Brian B. Oakley",
+      "Hyun S. Lillehoj",
+      "Michael H. Kogut",
+      "Woo K. Kim",
+      "John J. Maurer",
+      "Adriana Pedroso",
+      "Margie D. Lee",
+      "Stephen R. Collett",
+      "Timothy J. Johnson",
+      "Nelson A. Cox"
+    ],
+    "verifiedCitation": {
+      "volume": "360",
+      "issue": "2",
+      "page": "100-112"
+    }
+  },
+  {
+    "key": "Gadde2017",
+    "year": 2017,
+    "doi": "10.1017/S1466252316000207",
+    "title": "Alternatives to antibiotics for maximizing growth performance and feed efficiency in poultry: a review",
+    "verifiedMetadata": true,
+    "metadataSource": "Crossref DOI record; publisher/Europe PMC cross-check where available",
+    "readLevel": "targeted_fulltext_checked_by_nutrition_reviewer",
+    "checkedClaims": [
+      "Historically proposed AGP mechanisms, uncertainty over a unique mechanism, alternative classes and context-dependent efficacy."
+    ],
+    "caveat": "Contextual review; not evidence that every phytogenic product is an established antibiotic replacement. Individual trial tables were not comprehensively audited.",
+    "sourceUrl": "https://doi.org/10.1017/S1466252316000207",
+    "pdfUrl": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/834725E86141F209DDDE7BBA11A98635/S1466252316000207a.pdf/alternatives-to-antibiotics-for-maximizing-growth-performance-and-feed-efficiency-in-poultry-a-review.pdf",
+    "checkedOn": "2026-09-25",
+    "verifiedAuthors": [
+      "U. Gadde",
+      "W. H. Kim",
+      "S. T. Oh",
+      "Hyun S. Lillehoj"
+    ],
+    "verifiedCitation": {
+      "volume": "18",
+      "issue": "1",
+      "page": "26-45"
+    },
+    "crossReviewEvidence": "Publisher full PDF accessible (20 pages); abstract and mechanism/alternative categories sections consulted, not all individual trial tables."
+  },
+  {
+    "key": "Debbabi2022",
+    "year": 2022,
+    "doi": "10.3390/plants11131759",
+    "title": "The Status of Genetic Resources and Olive Breeding in Tunisia",
+    "verifiedMetadata": true,
+    "metadataSource": "Crossref DOI record; publisher/Europe PMC cross-check where available",
+    "readLevel": "targeted_fulltext_checked",
+    "checkedClaims": [
+      "More than 200 olive varieties in Tunisian collections; Chemlali and Chetoui are among the major cultivars."
+    ],
+    "caveat": "Economic rankings and production statistics reflect the sources available in 2022. The manuscript appropriately avoids presenting them as current statistics.",
+    "sourceUrl": "https://doi.org/10.3390/plants11131759",
+    "pdfUrl": "https://iris.cnr.it/retrieve/eb13a47b-1de6-4c0b-b05b-47361fee18e0/plants-11-01759.pdf",
+    "checkedOn": "2026-09-25",
+    "verifiedAuthors": [
+      "Olfa Saddoud Debbabi",
+      "Fathi Ben Amar",
+      "Sameh Mnasri Rahmani",
+      "Francesca Taranto",
+      "Cinzia Montemurro",
+      "Monica Marilena Miazzi"
+    ],
+    "verifiedCitation": {
+      "volume": "11",
+      "issue": "13",
+      "page": "1759"
+    },
+    "pmcid": "PMC9268818",
+    "fulltextXmlLocal": "fulltext/context/Debbabi2022.xml"
+  },
+  {
+    "key": "Aviagen2022",
+    "year": 2022,
+    "doi": null,
+    "title": "Ross Broiler Nutrition Specifications 2022",
+    "verifiedMetadata": true,
+    "metadataSource": "Official PDF cover, footers and copyright checked by nutrition reviewer",
+    "readLevel": "targeted_fulltext_checked_by_nutrition_reviewer",
+    "checkedClaims": [
+      "Guidelines require adjustment to local conditions, final product, ingredients, sex, age/weight and carcass objectives. Standardized ileal digestible amino acids, phase-specific AME, minerals and vitamin recommendations."
+    ],
+    "caveat": "Industry guidance, not an olive-leaf intervention experiment. Recommendations require adaptation to the actual flock and production objectives.",
+    "sourceUrl": "https://aviagen.com/assets/Tech_Center/Ross_Broiler/Ross-BroilerNutritionSpecifications2022-EN.pdf",
+    "pdfUrl": "https://aviagen.com/assets/Tech_Center/Ross_Broiler/Ross-BroilerNutritionSpecifications2022-EN.pdf",
+    "checkedOn": "2026-09-25",
+    "crossReviewEvidence": "Official full PDF downloaded successfully; introduction and phase-specific tables consulted. Cover, footers and copyright verify 2022.",
+    "fulltextPdfLocal": "tmp/Aviagen2022_verify.pdf"
+  },
+  {
+    "key": "Aviagen2025",
+    "year": 2025,
+    "doi": null,
+    "title": "Ross Broiler Management Handbook",
+    "verifiedMetadata": true,
+    "metadataSource": "Official PDF cover, footers and copyright checked by nutrition reviewer",
+    "readLevel": "targeted_fulltext_checked_by_nutrition_reviewer",
+    "checkedClaims": [
+      "Starter at least 10 days (p52); finisher feeds represent most total feed intake and feeding cost (p52); feeding strategy depends on product, economics, sex, weight and age (p51); pellet/fines/particle-size effects (p54); fungal/toxin grain quality and digestible nutrient balance (p56); unrestricted quality water and measurement, spillage, heat, drinking systems (p57,60)."
+    ],
+    "caveat": "Industry guidance, not an olive-leaf intervention experiment. Recommendations require adaptation to the actual flock and production objectives.",
+    "sourceUrl": "https://aviagen.com/assets/Tech_Center/Ross_Broiler/Aviagen-ROSS-Broiler-Handbook-EN.pdf",
+    "pdfUrl": "https://aviagen.com/assets/Tech_Center/Ross_Broiler/Aviagen-ROSS-Broiler-Handbook-EN.pdf",
+    "checkedOn": "2026-09-25",
+    "crossReviewEvidence": "Official full PDF downloaded successfully by normal HTTP after web tool returned 403. Targeted sections consulted: pages 24, 51–52, 54, 56–57 and 60. Cover and copyright verify 2025, edition code 0325-V1.",
+    "fulltextPdfLocal": "tmp/Aviagen2025_verify.pdf"
+  },
+  {
+    "key": "Betuzzi2025",
+    "year": 2025,
+    "doi": "10.3390/molecules30173605",
+    "title": "Pharmacognosy and Antioxidant Activity of Pruned Leaves from the Unexplored &lt;i&gt;Olea europaea&lt;/i&gt; L. 'Lavagnina' (Liguria, Italy).",
+    "verifiedMetadata": true,
+    "metadataSource": "Europe PMC/PubMed primary article record",
+    "readLevel": "targeted_fulltext_checked",
+    "checkedClaims": [
+      "Lavagnina cultivar: leaf morphology and phenolic compounds in palisade parenchyma and trichome stalk cells.",
+      "Methanolic and 70 percent ethanol extracts show antioxidant activity; HAE significantly outperformed other extracts only in the DPPH assay."
+    ],
+    "caveat": "Name the DPPH assay when stating superiority. Chemical in vitro activity is not evidence of in vivo protection; this is not a poultry trial.",
+    "sourceUrl": "https://doi.org/10.3390/molecules30173605",
+    "pdfUrl": "https://europepmc.org/articles/PMC12430430?pdf=render",
+    "checkedOn": "2026-09-25",
+    "pmcid": "PMC12430430",
+    "fulltextXmlLocal": "fulltext/context/Betuzzi2025.xml"
+  },
+  {
+    "key": "Karabourniotis1998",
+    "year": 1998,
+    "doi": "10.2307/2446367",
+    "title": "Polyphenol deposition in leaf hairs of Olea Europaea (OLeaceae) andQUercus Ilex (Fagaceae)",
+    "verifiedMetadata": true,
+    "metadataSource": "Crossref DOI record; publisher/Europe PMC cross-check where available",
+    "readLevel": "abstract_checked",
+    "checkedClaims": [
+      "Subcellular localization of polyphenols in Olea and Quercus leaf hairs; fluorescence shifts from cytoplasm to cell walls during maturation."
+    ],
+    "caveat": "Plant anatomy research, not an extraction or poultry experiment. No lawful open PDF identified.",
+    "sourceUrl": "https://doi.org/10.2307/2446367",
+    "pdfUrl": null,
+    "checkedOn": "2026-09-25",
+    "verifiedAuthors": [
+      "George Karabourniotis",
+      "George Kofidis",
+      "Costas Fasseas",
+      "Vally Liakoura",
+      "Ioannis Drossopoulos"
+    ],
+    "verifiedCitation": {
+      "volume": "85",
+      "issue": "7",
+      "page": "1007-1012"
+    }
+  },
+  {
+    "key": "Liakopoulos2006",
+    "year": 2006,
+    "doi": "10.1016/j.envexpbot.2004.11.008",
+    "title": "Trichome layers versus dehaired lamina of Olea europaea leaves: differences in flavonoid distribution, UV-absorbing capacity, and wax yield",
+    "verifiedMetadata": true,
+    "metadataSource": "Crossref DOI record; publisher/Europe PMC cross-check where available",
+    "readLevel": "publisher_abstract_checked",
+    "checkedClaims": [
+      "Six cultivars: greater flavonoid diversity in dehaired lamina; higher total flavonoids per unit mass in trichomes; quercetin and quercetin-3-O-rhamnoside associated with trichomes."
+    ],
+    "caveat": "Publisher abstract checked; full text not obtained. Does not directly demonstrate improved extraction yield.",
+    "sourceUrl": "https://doi.org/10.1016/j.envexpbot.2004.11.008",
+    "pdfUrl": null,
+    "checkedOn": "2026-09-25",
+    "verifiedAuthors": [
+      "G LIAKOPOULOS",
+      "S STAVRIANAKOU",
+      "G KARABOURNIOTIS"
+    ],
+    "verifiedCitation": {
+      "volume": "55",
+      "issue": "3",
+      "page": "294-304"
+    }
+  },
+  {
+    "key": "Sudjana2009",
+    "year": 2009,
+    "doi": "10.1016/j.ijantimicag.2008.10.026",
+    "title": "Antimicrobial activity of commercial Olea europaea (olive) leaf extract",
+    "verifiedMetadata": true,
+    "metadataSource": "Crossref DOI record; publisher/Europe PMC cross-check where available",
+    "readLevel": "abstract_checked",
+    "checkedClaims": [
+      "122 microorganisms tested; activity primarily against C. jejuni, H. pylori, S. aureus and MRSA; no uniform broad-spectrum activity."
+    ],
+    "caveat": "Commercial extract tested in vitro; no demonstrated efficacy in chickens.",
+    "sourceUrl": "https://doi.org/10.1016/j.ijantimicag.2008.10.026",
+    "pdfUrl": null,
+    "checkedOn": "2026-09-25",
+    "verifiedAuthors": [
+      "Aurelia N. Sudjana",
+      "Carla D’Orazio",
+      "Vanessa Ryan",
+      "Nooshin Rasool",
+      "Justin Ng",
+      "Nabilah Islam",
+      "Thomas V. Riley",
+      "Katherine A. Hammer"
+    ],
+    "verifiedCitation": {
+      "volume": "33",
+      "issue": "5",
+      "page": "461-463"
+    }
+  },
+  {
+    "key": "Vezza2017",
+    "year": 2017,
+    "doi": "10.1002/mnfr.201601066",
+    "title": "Immunomodulatory properties of Olea europaea leaf extract in intestinal inflammation",
+    "verifiedMetadata": true,
+    "metadataSource": "Crossref DOI record; publisher/Europe PMC cross-check where available",
+    "readLevel": "publisher_abstract_checked",
+    "checkedClaims": [
+      "Two mouse colitis models, cell cultures and human explants; reduced inflammatory mediators and restored expression of ZO-1, MUC-2 and TFF-3."
+    ],
+    "caveat": "Original bibliography omitted five coauthors: Talhaoui, Gomez-Caravaca, Segura-Carretero, Rodriguez-Cabezas and Monteleone. Correct the entry. Not an avian study. Publisher abstract read, not the full text.",
+    "sourceUrl": "https://doi.org/10.1002/mnfr.201601066",
+    "pdfUrl": null,
+    "checkedOn": "2026-09-25",
+    "verifiedAuthors": [
+      "Teresa Vezza",
+      "Francesca Algieri",
+      "Alba Rodríguez‐Nogales",
+      "José Garrido‐Mesa",
+      "M Pilar Utrilla",
+      "Nassima Talhaoui",
+      "Ana María Gómez‐Caravaca",
+      "Antonio Segura‐Carretero",
+      "M Elena Rodríguez‐Cabezas",
+      "Giovanni Monteleone",
+      "Julio Gálvez"
+    ],
+    "verifiedCitation": {
+      "volume": "61",
+      "issue": "10",
+      "article-number": "1601066"
+    }
+  },
+  {
+    "key": "DeBock2013",
+    "year": 2013,
+    "doi": "10.1371/journal.pone.0057622",
+    "title": "Olive (Olea europaea L.) Leaf Polyphenols Improve Insulin Sensitivity in Middle-Aged Overweight Men: A Randomized, Placebo-Controlled, Crossover Trial",
+    "verifiedMetadata": true,
+    "metadataSource": "Crossref DOI record; publisher/Europe PMC cross-check where available",
+    "readLevel": "abstract_checked_fulltext_available",
+    "checkedClaims": [
+      "Randomized crossover trial in 46 overweight men; improved insulin sensitivity and beta-cell responsiveness, without changes in several other outcomes."
+    ],
+    "caveat": "Human population and standardized supplement. Does not demonstrate general hypoglycemia or an avian effect. Full-text XML retrieved; numbers checked against the abstract.",
+    "sourceUrl": "https://doi.org/10.1371/journal.pone.0057622",
+    "pdfUrl": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0057622&type=printable",
+    "checkedOn": "2026-09-25",
+    "verifiedAuthors": [
+      "Martin de Bock",
+      "José G. B. Derraik",
+      "Christine M. Brennan",
+      "Janene B. Biggs",
+      "Philip E. Morgan",
+      "Steven C. Hodgkinson",
+      "Paul L. Hofman",
+      "Wayne S. Cutfield"
+    ],
+    "verifiedCitation": {
+      "volume": "8",
+      "issue": "3",
+      "page": "e57622"
+    },
+    "pmcid": "PMC3596374",
+    "fulltextXmlLocal": "fulltext/context/DeBock2013.xml"
+  },
+  {
+    "key": "Ismail2021",
+    "year": 2021,
+    "doi": "10.7717/peerj.11173",
+    "title": "Olive leaf extract effect on cardiometabolic profile among adults with prehypertension and hypertension: a systematic review and meta-analysis",
+    "verifiedMetadata": true,
+    "metadataSource": "Crossref DOI record; publisher/Europe PMC cross-check where available",
+    "readLevel": "abstract_checked_fulltext_available",
+    "checkedClaims": [
+      "Five trials, 325 adults; some favorable blood-pressure findings but conclusions limited by sample sizes and heterogeneity."
+    ],
+    "caveat": "Different comparators, preparations and doses. Do not generalize to all extracts or to poultry. Full-text XML retrieved; synthesis checked against the abstract.",
+    "sourceUrl": "https://doi.org/10.7717/peerj.11173",
+    "pdfUrl": "https://europepmc.org/articles/PMC8035902?pdf=render",
+    "checkedOn": "2026-09-25",
+    "verifiedAuthors": [
+      "Muhammad Asyraf Ismail",
+      "Mohd Noor Norhayati",
+      "Noraini Mohamad"
+    ],
+    "verifiedCitation": {
+      "volume": "9",
+      "page": "e11173",
+      "article-number": "e11173"
+    },
+    "pmcid": "PMC8035902",
+    "fulltextXmlLocal": "fulltext/context/Ismail2021.xml"
+  },
+  {
+    "key": "Razmpoosh2022",
+    "year": 2022,
+    "doi": "10.1186/s13098-022-00920-y",
+    "title": "The effects of olive leaf extract on cardiovascular risk factors in the general adult population: a systematic review and meta-analysis of randomized controlled trials",
+    "verifiedMetadata": true,
+    "metadataSource": "Crossref DOI record; publisher/Europe PMC cross-check where available",
+    "readLevel": "abstract_checked_fulltext_available",
+    "checkedClaims": [
+      "Twelve studies, 819 participants; pooled reductions in triglycerides and systolic blood pressure; no meaningful overall improvement in glycemic or inflammatory variables."
+    ],
+    "caveat": "Human results and subgroup findings. Low to very low certainty for several outcomes. Full-text XML retrieved; synthesis checked against the abstract.",
+    "sourceUrl": "https://doi.org/10.1186/s13098-022-00920-y",
+    "pdfUrl": "https://link.springer.com/content/pdf/10.1186/s13098-022-00920-y.pdf",
+    "checkedOn": "2026-09-25",
+    "verifiedAuthors": [
+      "Elham Razmpoosh",
+      "Shima Abdollahi",
+      "Mahdieh Mousavirad",
+      "Cain C. T. Clark",
+      "Sepideh Soltani"
+    ],
+    "verifiedCitation": {
+      "volume": "14",
+      "issue": "1",
+      "article-number": "151"
+    },
+    "pmcid": "PMC9585795",
+    "fulltextXmlLocal": "fulltext/context/Razmpoosh2022.xml"
+  },
+  {
+    "key": "Gervasi2024",
+    "year": 2024,
+    "doi": "10.3390/biomedicines12030502",
+    "title": "Use of Oleuropein and Hydroxytyrosol for Cancer Prevention and Treatment: Considerations about How Bioavailability and Metabolism Impact Their Adoption in Clinical Routine",
+    "verifiedMetadata": true,
+    "metadataSource": "Crossref DOI record; publisher/Europe PMC cross-check where available",
+    "readLevel": "targeted_fulltext_checked",
+    "checkedClaims": [
+      "Review of antiproliferative effects of oleuropein and hydroxytyrosol; limited bioavailability and the gap between experimental models and clinical use are explicitly discussed."
+    ],
+    "caveat": "Mechanistic and preclinical review. Not clinical proof of anticancer efficacy or direct evidence relevant to broiler growth.",
+    "sourceUrl": "https://doi.org/10.3390/biomedicines12030502",
+    "pdfUrl": "https://europepmc.org/articles/PMC10968586?pdf=render",
+    "checkedOn": "2026-09-25",
+    "verifiedAuthors": [
+      "Francesco Gervasi",
+      "Fanny Pojero"
+    ],
+    "verifiedCitation": {
+      "volume": "12",
+      "issue": "3",
+      "page": "502"
+    },
+    "pmcid": "PMC10968586",
+    "fulltextXmlLocal": "fulltext/context/Gervasi2024.xml"
+  },
+  {
+    "key": "Gokkaya2026",
+    "year": 2026,
+    "doi": "10.1007/s11101-026-10254-6",
+    "title": "Advances in bioactivity and health benefits of olive leaf: an updated review",
+    "verifiedMetadata": true,
+    "metadataSource": "Crossref DOI record; publisher/Europe PMC cross-check where available",
+    "readLevel": "targeted_fulltext_checked",
+    "checkedClaims": [
+      "Updated review of olive-leaf bioactivities and preparations; need for more rigorous clinical trials and long-term toxicity data."
+    ],
+    "caveat": "Its search covers 2015-2025 despite publication in 2026; it does not itself cover all 2026 research. Add volume 25 and pages 4989-5025.",
+    "sourceUrl": "https://doi.org/10.1007/s11101-026-10254-6",
+    "pdfUrl": "https://link.springer.com/content/pdf/10.1007/s11101-026-10254-6.pdf",
+    "checkedOn": "2026-09-25",
+    "verifiedAuthors": [
+      "İçim Gökkaya",
+      "Gülin Renda",
+      "Didem Şöhretoğlu"
+    ],
+    "verifiedCitation": {
+      "volume": "25",
+      "issue": "7",
+      "page": "4989-5025"
+    }
+  },
+  {
+    "key": "Menezes2026Meta",
+    "year": 2026,
+    "doi": "10.1039/D5FO04235F",
+    "title": "Metabolic and inflammatory effects of oleuropein and olive leaf extract: a systematic review and meta-analysis",
+    "verifiedMetadata": true,
+    "metadataSource": "Crossref DOI record; publisher/Europe PMC cross-check where available",
+    "readLevel": "indexed_primary_abstract_checked",
+    "checkedClaims": [
+      "Eleven adult RCTs: four short-term and seven continuous-intake trials; null pooled metabolic results in continuous parallel-design trials; scarce, low-certainty inflammatory evidence."
+    ],
+    "caveat": "Correct author name parsing to Peres, Kathleen Kruger and da Mata, Isabella Rosa. Abstract only; do not imply all eleven trials were pooled.",
+    "sourceUrl": "https://doi.org/10.1039/D5FO04235F",
+    "pdfUrl": null,
+    "checkedOn": "2026-09-25",
+    "verifiedAuthors": [
+      "Rafaella Câmara Rocha Menezes",
+      "Kathleen Kruger Peres",
+      "Isabella Rosa da Mata",
+      "Simone Morelo Dal Bosco",
+      "Juliano Garavaglia",
+      "Eliane Dallegrave"
+    ],
+    "verifiedCitation": {
+      "volume": "17",
+      "issue": "7",
+      "page": "3077-3090"
+    }
+  },
+  {
+    "key": "Lachovicz2025",
+    "year": 2025,
+    "doi": "10.1002/ptr.8509",
+    "title": "Efficacy of Olive Leaf Extract in Improving Blood Pressure in Pre‐Hypertensive and Hypertensive Individuals: A Systematic Review and Meta‐Analysis",
+    "verifiedMetadata": true,
+    "metadataSource": "Crossref DOI record; publisher/Europe PMC cross-check where available",
+    "readLevel": "abstract_checked",
+    "checkedClaims": [
+      "Three studies, 248 prehypertensive/hypertensive participants; systolic signal and high-dose subgroup effect, with explicit methodological limitations."
+    ],
+    "caveat": "The overall pre/post analysis reports nonsignificant diastolic change, p=0.07, despite the abstract wording. Do not interpret the overall finding as a uniform placebo-controlled effect. Institutional PDF identified; download to be confirmed.",
+    "sourceUrl": "https://doi.org/10.1002/ptr.8509",
+    "pdfUrl": "https://bibliotecadigital.ipb.pt/server/api/core/bitstreams/15799b10-c16f-4a35-b17c-7101d88fc172/content",
+    "checkedOn": "2026-09-25",
+    "verifiedAuthors": [
+      "Rebeca Lachovicz",
+      "Vera Ferro‐Lebres",
+      "Juliana Almeida‐de‐Souza",
+      "José Alberto Pereira"
+    ],
+    "verifiedCitation": {
+      "volume": "39",
+      "issue": "6",
+      "page": "2863-2874"
+    }
+  },
+  {
+    "key": "Fernandez2024",
+    "year": 2024,
+    "doi": "10.1038/s42003-024-06053-4",
+    "title": "Chemical and structural heterogeneity of olive leaves and their trichomes",
+    "verifiedMetadata": true,
+    "metadataSource": "Crossref DOI record; publisher/Europe PMC cross-check where available",
+    "readLevel": "targeted_fulltext_checked",
+    "checkedClaims": [
+      "Chemical and structural heterogeneity of trichomes and leaf sides; possible functional effects on water/solute interactions are discussed."
+    ],
+    "caveat": "An effect on extraction yield is an inference, not a measurement in this article. Use conditional wording.",
+    "sourceUrl": "https://doi.org/10.1038/s42003-024-06053-4",
+    "pdfUrl": "https://europepmc.org/articles/PMC10960044?pdf=render",
+    "checkedOn": "2026-09-25",
+    "verifiedAuthors": [
+      "Victoria Fernández",
+      "Lisa Almonte",
+      "Héctor Alejandro Bahamonde",
+      "Ana Galindo-Bernabeu",
+      "Giovanni Sáenz-Arce",
+      "Jaime Colchero"
+    ],
+    "verifiedCitation": {
+      "volume": "7",
+      "issue": "1",
+      "article-number": "352"
+    },
+    "pmcid": "PMC10960044",
+    "fulltextXmlLocal": "fulltext/context/Fernandez2024.xml"
+  },
+  {
+    "key": "Alvarez2026",
+    "year": 2026,
+    "doi": "10.3389/fpls.2026.1783046",
+    "title": "Microscopic attributes of Olea europaea L. leaves and bioclimatology: the case of Galicia, western Iberian Peninsula",
+    "verifiedMetadata": true,
+    "metadataSource": "Crossref DOI record; publisher/Europe PMC cross-check where available",
+    "readLevel": "targeted_fulltext_checked",
+    "checkedClaims": [
+      "Five Galician varieties; intervarietal differences in cuticle, leaf blade and trichomes; abaxial stomata and differentiated mesophyll."
+    ],
+    "caveat": "Correct title ending to: the case of Galicia, western Iberian Peninsula. Anatomical associations do not experimentally demonstrate drought tolerance.",
+    "sourceUrl": "https://doi.org/10.3389/fpls.2026.1783046",
+    "pdfUrl": "https://europepmc.org/articles/PMC13144125?pdf=render",
+    "checkedOn": "2026-09-25",
+    "verifiedAuthors": [
+      "Rafael Álvarez",
+      "Enrique Escarda-Castro",
+      "Miguel Munárriz",
+      "Ramón Álvarez-Esteban",
+      "Aitor Álvarez-Santacoloma",
+      "Sara del Río"
+    ],
+    "verifiedCitation": {
+      "volume": "17",
+      "article-number": "1783046"
+    },
+    "pmcid": "PMC13144125",
+    "fulltextXmlLocal": "fulltext/context/Alvarez2026.xml"
+  }
+]

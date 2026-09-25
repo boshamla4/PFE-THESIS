@@ -1,0 +1,86 @@
+name: Build and inspect thesis
+
+on:
+  push:
+    branches:
+      - bibliography-superset-expansion
+  workflow_dispatch:
+
+jobs:
+  build-inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install document tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils texlive-latex-base texlive-latex-recommended texlive-latex-extra texlive-lang-french texlive-fonts-recommended
+
+      - name: Extract reference thesis text
+        run: |
+          mkdir -p inspection/source_text inspection/rendered
+          pdftotext -layout "source d'inspiration/1st thesis/Thèse Amine B.Brahim copie finale 07-07-2018.pdf" inspection/source_text/2018_Ben_Brahim.txt
+          python3 - <<'PY'
+          import zipfile, re, html
+          from pathlib import Path
+          import xml.etree.ElementTree as ET
+
+          W='{http://schemas.openxmlformats.org/wordprocessingml/2006/main}'
+          src=Path("source d'inspiration/2nd thesis")
+          out=Path("inspection/source_text")
+          out.mkdir(parents=True,exist_ok=True)
+
+          def extract_docx(path):
+              with zipfile.ZipFile(path) as z:
+                  doc=ET.fromstring(z.read("word/document.xml"))
+                  styles={}
+                  if "word/styles.xml" in z.namelist():
+                      root=ET.fromstring(z.read("word/styles.xml"))
+                      for s in root.findall(f'.//{W}style'):
+                          sid=s.attrib.get(W+'styleId','')
+                          name=s.find(f'{W}name')
+                          styles[sid]=name.attrib.get(W+'val',sid) if name is not None else sid
+                  rows=[]
+                  for p in doc.findall(f'.//{W}body/{W}p'):
+                      texts=[t.text or '' for t in p.findall(f'.//{W}t')]
+                      txt=''.join(texts).strip()
+                      if not txt:
+                          continue
+                      ppr=p.find(f'{W}pPr')
+                      sid=''
+                      if ppr is not None:
+                          ps=ppr.find(f'{W}pStyle')
+                          if ps is not None: sid=ps.attrib.get(W+'val','')
+                      sty=styles.get(sid,sid)
+                      rows.append(f'[{sty}] {txt}' if sty else txt)
+                  return '\n'.join(rows)
+
+          for p in sorted(src.glob("*.docx")):
+              (out/(p.stem+".txt")).write_text(extract_docx(p),encoding="utf-8")
+          PY
+
+      - name: Compile expanded bibliography
+        working-directory: thesis
+        run: |
+          pdflatex -interaction=nonstopmode -halt-on-error revue_bibliographique.tex
+          bibtex revue_bibliographique
+          pdflatex -interaction=nonstopmode -halt-on-error revue_bibliographique.tex
+          pdflatex -interaction=nonstopmode -halt-on-error revue_bibliographique.tex
+          pdflatex -interaction=nonstopmode -halt-on-error revue_bibliographique.tex
+          cp revue_bibliographique.pdf ../inspection/
+          cp revue_bibliographique.toc ../inspection/
+          cp revue_bibliographique.log ../inspection/
+
+      - name: Render every PDF page
+        run: |
+          pdftoppm -png -r 115 inspection/revue_bibliographique.pdf inspection/rendered/page
+          pdfinfo inspection/revue_bibliographique.pdf > inspection/pdfinfo.txt
+          grep -E "Warning|Overfull|Underfull|undefined|Citation" inspection/revue_bibliographique.log > inspection/latex_warnings.txt || true
+
+      - name: Upload inspection package
+        uses: actions/upload-artifact@v4
+        with:
+          name: thesis-inspection
+          path: inspection/
+          if-no-files-found: error

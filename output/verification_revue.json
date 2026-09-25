@@ -1,43 +1,27 @@
 {
-  "date": "2026-09-23",
-  "pdf": "output\\pdf\\revue_bibliographique.pdf",
-  "pages": 22,
-  "references_registered": 37,
-  "references_typeset": 37,
-  "all_pages_visually_reviewed": true,
-  "visual_review_ranges": {
-    "root": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      17,
-      18,
-      19
-    ],
-    "polyphenols": [
-      6,
-      7,
-      8,
-      9,
-      10
-    ],
-    "performance": [
-      11,
-      12,
-      13,
-      14,
-      15,
-      16
-    ],
-    "bibliography": [
-      20,
-      21,
-      22
-    ]
+  "date": "2026-09-25",
+  "document": "pdf/Mohamed_Hamida_Revue_bibliographique_2026-09-25.pdf",
+  "physical_pages": 38,
+  "front_matter_pages": 5,
+  "body_pages": 28,
+  "reference_pages": 5,
+  "bibtex_entries": 61,
+  "cited_keys": 61,
+  "missing_citations": [],
+  "unused_bibtex_entries": [],
+  "documentary_pdfs": 31,
+  "fulltext_xml": 16,
+  "pdf_sha256": "260ff2ea907d7768d9aaeb5741a424efefd2c57e7aa9c3226b7598e68f9e4721",
+  "pdf_bytes": 510805,
+  "validation": {
+    "latex": "BibTeX then repeated pdfLaTeX passes; final log has no unresolved citation, rerun, overfull or underfull warning",
+    "visual": "All final pages covered: initial 39-page inspection, unchanged-image hash comparison, then all changed pages checked after corrections. Table heading and URL continuation corrected.",
+    "scope": "Bibliographic review for scientific feedback; no experimental protocol or results invented."
   },
-  "compile_warnings": [],
-  "sha256": "21f2345426e27272048f2cd4d8405b821eef30ffc6e652bee3a9562689ada3f2",
-  "scite_calls_this_session": 2
+  "scite_calls_this_delivery": 0,
+  "limitations": [
+    "Narrative review, not exhaustive systematic review",
+    "Read levels and access gaps documented in reading register",
+    "Current ENMV submission requirements and actual experimental data still required"
+  ]
 }

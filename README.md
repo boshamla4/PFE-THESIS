@@ -1,43 +1,46 @@
 # PFE THESIS
 
-Dépôt privé : [boshamla4/PFE-THESIS](https://github.com/boshamla4/PFE-THESIS).
+Thèse de **Mohamed Hamida**, ENMV Sidi Thabet, **2026/2027**, en français.
 
-Projet de thèse de **Mohamed Hamida**, année universitaire **2026/2027**, rédigé en français et organisé à partir des deux thèses ENMV Sidi Thabet fournies.
+Titre conservé : **« Effet de l’incorporation des “extraits” de feuilles d’olivier dans l’eau de boisson du poulet chair »**.
 
-Titre de travail : **« Effet de l’incorporation des “extraits” de feuilles d’olivier dans l’eau de boisson du poulet chair »**.
+## Document à transmettre pour relecture
 
-## État au 23 septembre 2026
+**[Ouvrir et télécharger le PDF de Mohamed](https://github.com/boshamla4/PFE-THESIS/blob/bibliography-superset-expansion/output/pdf/Mohamed_Hamida_Revue_bibliographique_2026-09-25.pdf)** — version du 25 septembre 2026, **38 pages**, **61 références citées**. Sur GitHub, utiliser le bouton de téléchargement du fichier brut. Ce dépôt est privé : le destinataire doit avoir accès au dépôt, ou recevoir directement le PDF téléchargé.
 
-Le premier manuscrit bibliographique compte **22 pages et 37 références citées**. Il couvre les polyphénols, la préparation et les doses d’extraits, la croissance, le gain moyen quotidien (GMQ), l’indice de consommation, les paramètres sanguins, l’immunité, l’intégrité intestinale et le microbiote. **20 PDF d’articles et 7 textes intégraux XML** sont conservés avec les notes de lecture et les traces de recherche.
+- [Sources LaTeX portables](output/revue_bibliographique_sources.zip).
+- [Source principale](thesis/revue_bibliographique.tex) et [chapitres](thesis/chapters).
+- [Bibliographie BibTeX](bibliography/references.bib), importable dans Zotero.
+- [Registre de lecture](bibliography/READING_REGISTER.md).
+- [31 PDF documentaires](bibliography/papers), dont 29 articles et deux guides techniques ; [16 textes intégraux XML](bibliography/fulltext).
+- [Vérification de la livraison](output/verification_revue.json).
 
-Il s’agit d’une revue narrative structurée à approfondir. La thèse complète attend le protocole et les résultats expérimentaux de Mohamed, ainsi que la validation des consignes ENMV actuelles par l’encadrant.
+Il s'agit de la **partie bibliographique pour relecture scientifique**, avec une couverture volontairement large. La partie expérimentale et la discussion des résultats propres à Mohamed restent à intégrer à partir de ses données.
 
-## Accès aux documents
+## Travail réalisé
 
-- [Manuscrit bibliographique PDF](output/pdf/revue_bibliographique.pdf)
-- [Source LaTeX principale](thesis/revue_bibliographique.tex) et [chapitres](thesis/chapters/)
-- [Archive des sources LaTeX](output/revue_bibliographique_sources.zip)
-- [Bibliographie BibTeX](bibliography/references.bib), importable dans Zotero
-- [Registre de lecture et remarques critiques](bibliography/READING_REGISTER.md)
-- [Articles PDF téléchargés](bibliography/papers/) et [textes XML](bibliography/fulltext/)
-- [Protocole de recherche](bibliography/SEARCH_PROTOCOL.md) et [recherches prioritaires restantes](bibliography/NEXT_RESEARCH.md)
-- [Point de reprise](ETAT_DU_PROJET.md), [cadrage du projet](PROJECT_BRIEF.md) et [informations attendues pour la thèse](INFORMATIONS_POUR_LA_THESE.md)
-- [Thèses sources](source%20d'inspiration/), conservées dans leur version originale
+Le noyau initial a été complété par les rappels digestifs, le microbiote, la nutrition et le rationnement, le contexte tunisien de l'olivier, l'anatomie foliaire, l'extraction et les propriétés biologiques. Les effets avicoles couvrent croissance, GMQ, IC, viabilité, carcasse, digestibilité, viande, paramètres sanguins, immunité et santé intestinale.
 
-Les DOI, niveaux de consultation et limites des études sont indiqués dans le registre. Les URL d’origine et empreintes des PDF figurent dans le [manifeste des téléchargements](bibliography/download_manifest.json). Les documents tiers restent soumis aux droits de leurs auteurs et éditeurs.
+La passe de livraison corrige des métadonnées bibliographiques, ajoute les définitions consensuelles des probiotiques/prébiotiques/synbiotiques, clarifie les niveaux de preuve et retire les instructions de rédaction du manuscrit. Les résultats neutres ou défavorables sont conservés. Les 38 pages ont été contrôlées visuellement ; aucune citation manquante ni alerte de mise en page LaTeX ne subsiste dans la compilation livrée.
+
+Les recherches initiales datent du 23 septembre 2026 ; les contrôles de l'extension et la livraison datent du 25 septembre. Aucune exhaustivité de toutes les bases n'est revendiquée. Les limites d'accès et de lecture figurent dans le registre.
+
+## Branche et sources d'inspiration
+
+La livraison est publiée sur `bibliography-superset-expansion`, [PR #1](https://github.com/boshamla4/PFE-THESIS/pull/1). La branche `main` conserve la version antérieure tant que la PR n'est pas fusionnée.
+
+Les deux thèses sources restent inchangées. La [matrice de couverture](MATRICE_COUVERTURE_FUSION.md) et le [rapport d'inspection](INSPECTION_SOURCES_FUSION.md) expliquent l'élargissement. Les cinq tables photographiées ont une [transcription](source%20d'inspiration/tables_matieres_photos_2026.md) et des reconstructions SVG ; les photographies originales ne sont pas archivées comme fichiers image.
 
 ## Compilation
 
-Avec une distribution LaTeX comprenant `pdflatex`, `bibtex`, `natbib` et le français de `babel` (MiKTeX utilisé pour cette version), lancer depuis la racine du projet :
+Depuis `thesis/` :
 
-```powershell
-Set-Location thesis
+```text
 pdflatex -interaction=nonstopmode -halt-on-error revue_bibliographique.tex
 bibtex revue_bibliographique
 pdflatex -interaction=nonstopmode -halt-on-error revue_bibliographique.tex
 pdflatex -interaction=nonstopmode -halt-on-error revue_bibliographique.tex
+pdflatex -interaction=nonstopmode -halt-on-error revue_bibliographique.tex
 ```
 
-Après contrôle du rendu, copier `thesis/revue_bibliographique.pdf` vers `output/pdf/revue_bibliographique.pdf`. Les fichiers intermédiaires de compilation et `tmp/` sont exclus du dépôt ; les sources, articles et livrables sont conservés.
-
-La version historique de démarrage reste disponible dans `thesis/bibliographie_initiale.tex` et `output/pdf/bibliographie_initiale.pdf`. Le document de 22 pages ci-dessus est la version actuelle à relire.
+`references.bib` est la base éditoriale de référence. `node bibliography/build_library.mjs` vérifie sa concordance avec le registre et les empreintes des PDF sans réécrire les notices. Le registre lisible est produit par `node bibliography/build_reading_guide.mjs`.

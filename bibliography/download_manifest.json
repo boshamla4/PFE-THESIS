@@ -1,5 +1,100 @@
 [
   {
+    "file": "papers/context/Alvarez2026.pdf",
+    "source_url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1783046/pdf",
+    "downloaded": "2026-09-25",
+    "bytes": 5966776,
+    "sha256": "e531a36b676f0dcd345ff4e70635119f417a675e99535b6b7b83df71a991ffbc",
+    "key": "Alvarez2026"
+  },
+  {
+    "file": "papers/context/Aviagen2022.pdf",
+    "source_url": "https://aviagen.com/assets/Tech_Center/Ross_Broiler/Ross-BroilerNutritionSpecifications2022-EN.pdf",
+    "downloaded": "2026-09-25",
+    "bytes": 169901,
+    "sha256": "0302b2caed1266639211ea5cf8b8b20e7963e3bd9ce436fa1c8396ef648fe6eb",
+    "key": "Aviagen2022"
+  },
+  {
+    "file": "papers/context/Aviagen2025.pdf",
+    "source_url": "https://aviagen.com/assets/Tech_Center/Ross_Broiler/Aviagen-ROSS-Broiler-Handbook-EN.pdf",
+    "downloaded": "2026-09-25",
+    "bytes": 17331407,
+    "sha256": "19077b256e843ff11d48c7a839a239a29649b7025e45fe8eceb4b108b99e5603",
+    "key": "Aviagen2025"
+  },
+  {
+    "file": "papers/context/Betuzzi2025.pdf",
+    "source_url": "https://mdpi-res.com/d_attachment/molecules/molecules-30-03605/article_deploy/molecules-30-03605.pdf",
+    "downloaded": "2026-09-25",
+    "bytes": 2351045,
+    "sha256": "fe4d9cab6a2e9c63b8719c62306c3a79bf66be7ba8e26133973580cf5af630fd",
+    "key": "Betuzzi2025"
+  },
+  {
+    "file": "papers/context/DeBock2013.pdf",
+    "source_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0057622&type=printable",
+    "downloaded": "2026-09-25",
+    "bytes": 445869,
+    "sha256": "281d5adb9fad0743c613d4f110bf0dda28800d5958fd83873be11d09f6986d26",
+    "key": "DeBock2013"
+  },
+  {
+    "file": "papers/context/Debbabi2022.pdf",
+    "source_url": "https://mdpi-res.com/d_attachment/plants/plants-11-01759/article_deploy/plants-11-01759.pdf",
+    "downloaded": "2026-09-25",
+    "bytes": 42565179,
+    "sha256": "8f2e5adf529ce84ae1b276aa585518c4fb387df0bf020a31d69cc984d4bcf025",
+    "key": "Debbabi2022"
+  },
+  {
+    "file": "papers/context/Gadde2017.pdf",
+    "source_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/834725E86141F209DDDE7BBA11A98635/S1466252316000207a.pdf/alternatives-to-antibiotics-for-maximizing-growth-performance-and-feed-efficiency-in-poultry-a-review.pdf",
+    "downloaded": "2026-09-25",
+    "bytes": 573932,
+    "sha256": "1cbc8475daedff1e0d6576e2307d23234b89915e3be4a6d949a4c99ed79ded6a",
+    "key": "Gadde2017"
+  },
+  {
+    "file": "papers/context/Gervasi2024.pdf",
+    "source_url": "https://mdpi-res.com/d_attachment/biomedicines/biomedicines-12-00502/article_deploy/biomedicines-12-00502.pdf",
+    "downloaded": "2026-09-25",
+    "bytes": 1322017,
+    "sha256": "03e04952f64d3a2b36683585c7a1db96ca79aff211880c676daf30eacc619df4",
+    "key": "Gervasi2024"
+  },
+  {
+    "file": "papers/context/Hill2014.pdf",
+    "source_url": "https://isappscience.org/wp-content/uploads/2018/11/hill-ISAPP-consensus-panel-probiotic-definition-141.pdf",
+    "downloaded": "2026-09-25",
+    "bytes": 895305,
+    "sha256": "f4ff9d139eeba77ba05d4baa11eb457d15f9032181625532de2650aefae3cfb8",
+    "key": "Hill2014"
+  },
+  {
+    "file": "papers/context/Lachovicz2025.pdf",
+    "source_url": "https://bibliotecadigital.ipb.pt/server/api/core/bitstreams/15799b10-c16f-4a35-b17c-7101d88fc172/content",
+    "downloaded": "2026-09-25",
+    "bytes": 1322964,
+    "sha256": "6ab3357bc1549046408cf7f5fb0b10eef1513b0ec5216a748680e881f57bb2f9",
+    "key": "Lachovicz2025"
+  },
+  {
+    "file": "papers/context/RavindranAbdollahi2021.pdf",
+    "source_url": "https://mdpi-res.com/d_attachment/animals/animals-11-02795/article_deploy/animals-11-02795.pdf",
+    "downloaded": "2026-09-25",
+    "bytes": 359966,
+    "sha256": "866a731f987f86a53281d07d093be140f098e784d50b3a29d3a40304fae37ae9",
+    "key": "RavindranAbdollahi2021"
+  },
+  {
+    "file": "papers/foundational/2017_Jabri_DrinkingWater.pdf",
+    "source_url": "https://www.jnsciences.org/index.php?id=420&option=com_attachments&task=download",
+    "downloaded": "2026-09-23",
+    "bytes": 1363175,
+    "sha256": "7e9f254775da2f36df967025f40abb429c581ae5df6167c2c604f391f871707d"
+  },
+  {
     "file": "papers/recent/2018_Sarica_MeatQuality.pdf",
     "source_url": "https://agrifoodscience.com/index.php/TURJAF/article/download/1782/958/16634",
     "downloaded": "2026-09-23",
@@ -131,12 +226,5 @@
     "downloaded": "2026-09-23",
     "bytes": 1117598,
     "sha256": "a600b83e518670b95c697a38630850156d513b7beb3d4c3f39790da4e1d13a1c"
-  },
-  {
-    "file": "papers/foundational/2017_Jabri_DrinkingWater.pdf",
-    "source_url": "https://www.jnsciences.org/index.php?id=420&option=com_attachments&task=download",
-    "downloaded": "2026-09-23",
-    "bytes": 1363175,
-    "sha256": "7e9f254775da2f36df967025f40abb429c581ae5df6167c2c604f391f871707d"
   }
 ]
