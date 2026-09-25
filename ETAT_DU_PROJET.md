@@ -1,30 +1,53 @@
-# Point de reprise — 23 septembre 2026
+# Point de reprise — 25 septembre 2026
 
-Dépôt GitHub privé : [PFE THESIS](https://github.com/boshamla4/PFE-THESIS), branche principale `main`. Les fichiers temporaires et intermédiaires sont exclus par `.gitignore`.
+Dépôt GitHub privé : [PFE THESIS](https://github.com/boshamla4/PFE-THESIS). La branche `main` conserve pour l'instant la version bibliographique précédente. L'extension demandée par l'encadrement est développée dans `bibliography-superset-expansion` et revue dans la PR brouillon #1.
 
-## Terminé et sauvegardé
+## Version étendue actuellement compilée
 
-- Premier manuscrit bibliographique développé : **22 pages**, français, Mohamed Hamida, année2026/2027, titre du PDF source conservé.
-- PDF : `output/pdf/revue_bibliographique.pdf`.
-- LaTeX : `thesis/revue_bibliographique.tex` et `thesis/chapters/` ; archive portable `output/revue_bibliographique_sources.zip`.
-- **37 références** dans `bibliography/references.bib`, toutes citées dans le manuscrit ; notices et niveaux de lecture dans `bibliography/READING_REGISTER.md`.
-- **20 PDF d'articles**, dans `bibliography/papers/`, et **7 textes intégraux XML**. Origines et empreintes dans `download_manifest.json`.
-- Recherche PubMed :48titres dépistés, requêtes/résultats archivés. Recherche web et citations complémentaires documentées. Aucune exhaustivité générale revendiquée.
-- Compilation terminée sans avertissements, toutes les22pages vérifiées visuellement ; vérification enregistrée dans `output/verification_revue.json`.
-- Scite connecté et utilisé **2 fois** ; budget initial annoncé25appels, solde réel non exposé. Aucun abonnement ou article acheté.
-- Zotero Desktop installé ; import de la bibliothèque et synchronisation pas encore effectués.
+- Manuscrit bibliographique compilé : **37 pages physiques**.
+- Répartition : 1 page de titre + 3 pages liminaires (table des matières et abréviations) + 33 pages numérotées en arabe.
+- Corps de la revue avant références : pages 1 à 29.
+- Références bibliographiques : pages 30 à 33.
+- Bibliographie BibTeX : **53 références** dans cette version.
+- Noyau documentaire initial conservé : 37 références sélectionnées, 20 PDF d'articles et 7 textes intégraux XML.
+- Compilation automatisée par GitHub Actions sur la branche de travail.
+- Le PDF final de contrôle a été rendu en images et **les 37 pages ont été vérifiées visuellement** le 25 septembre 2026. Aucun chevauchement, texte coupé ou défaut de mise en page bloquant n'a été observé.
+- Un doublon de paragraphe dans la partie formulation a été détecté lors du contrôle visuel puis supprimé.
 
-## Portée du manuscrit
+## Extension réalisée
 
-Introduction, méthode documentaire, feuilles/polyphénols/préparation/stabilité, performances/GMQ/IC, paramètres sanguins/immunité, intégrité intestinale/microbiote/AGCC, synthèse critique et références. Les contradictions de certaines publications sont conservées dans les fiches de lecture. Les résultats expérimentaux personnels ne sont pas inventés.
+Le manuscrit de 22 pages a été conservé comme noyau scientifique puis élargi selon la consigne « tout intégrer d'abord, retirer ensuite ».
 
-Le dossier initial de6pages reste historique. Le manuscrit22pages est la version à lire actuellement. Il ne représente pas encore la thèse complète ni une revue systématique exhaustive.
+Nouveaux ensembles ajoutés :
+- rappels anatomo-physiologiques digestifs du poulet ;
+- microbiote digestif général et colonisation ;
+- besoins alimentaires : énergie, protéines/acides aminés, minéraux, vitamines et eau ;
+- rationnement démarrage/croissance/finition ;
+- matières premières énergétiques et protéiques, facteurs antinutritionnels, principes de formulation et présentation physique de l'aliment ;
+- antibiotiques promoteurs de croissance et principales alternatives ;
+- contexte tunisien de l'olivier, diversité variétale, morphologie/anatomie de la feuille ;
+- localisation tissulaire de certains polyphénols et rôle des trichomes ;
+- extraction : séchage, solvant, température, pH, macération, Soxhlet et méthodes contemporaines ;
+- propriétés antioxydantes, antimicrobiennes, anti-inflammatoires, cardiométaboliques et antiprolifératives avec séparation explicite des niveaux de preuve ;
+- mortalité/viabilité, carcasse, utilisation des nutriments, qualité de viande ;
+- mesures macroscopiques du tube digestif, séparées de l'histomorphologie.
 
-## À poursuivre
+La redondance entre le chapitre général sur le poulet et le chapitre spécialisé sur les réponses intestinales a été réduite.
 
-1. Retour de l'encadrant sur le texte et les consignes ENMV actuelles.
-2. Réception du protocole réel, puis des résultats et données brutes de Mohamed.
-3. Lecture des textes prioritaires encore manquants, extension des bases documentaires et vérification des notices éditoriales ; voir `bibliography/NEXT_RESEARCH.md`.
-4. Intégration de la partie expérimentale et discussion comparative, puis nouvelle actualisation avant dépôt2027.
+## Sources d'inspiration inspectées
 
-Les sources d'inspiration originales n'ont pas été modifiées.
+- Thèse Heni Nabil 2012/2013 : partie bibliographique et partie expérimentale inspectées au niveau du contenu, pas seulement de la table des matières.
+- Thèse Ben Brahim Amine 2018 : structure, thèmes bibliographiques et critères expérimentaux recoupés avec les informations déjà archivées dans le dépôt et les documents disponibles.
+- Cinq photographies de tables des matières : transcription propre dans `source d'inspiration/tables_matieres_photos_2026.md` et cinq reconstructions vectorielles SVG dans `source d'inspiration/tables_matieres_photos_2026/`.
+- Matrice de fusion : `MATRICE_COUVERTURE_FUSION.md`.
+- Rapport d'inspection détaillée : `INSPECTION_SOURCES_FUSION.md`.
+
+Les fichiers originaux des deux thèses restent inchangés.
+
+## À poursuivre après cette phase
+
+1. Retour de l'encadrant sur la version volontairement large.
+2. Décision sur les sections à réduire ou supprimer.
+3. Réception du protocole réel et des données expérimentales de Mohamed.
+4. Mise à jour du registre de lecture pour les références ajoutées pendant l'extension et archivage local des textes intégraux prioritaires lorsqu'ils sont accessibles.
+5. Intégration de la partie expérimentale, résultats et discussion sans inventer de données.
