@@ -1,0 +1,354 @@
+[
+  {
+    "key": "Debbabi2022",
+    "status": "saved",
+    "expected_title": "The Status of Genetic Resources and Olive Breeding in Tunisia",
+    "attempts": [
+      {
+        "url": "https://iris.cnr.it/retrieve/eb13a47b-1de6-4c0b-b05b-47361fee18e0/plants-11-01759.pdf",
+        "status": "failed",
+        "error": "HTTP 403"
+      },
+      {
+        "url": "https://mdpi-res.com/d_attachment/plants/plants-11-01759/article_deploy/plants-11-01759.pdf",
+        "status": "saved",
+        "final_url": "https://mdpi-res.com/d_attachment/plants/plants-11-01759/article_deploy/plants-11-01759.pdf"
+      }
+    ],
+    "downloaded": "2026-09-25",
+    "file": "papers/context/Debbabi2022.pdf",
+    "source_url": "https://mdpi-res.com/d_attachment/plants/plants-11-01759/article_deploy/plants-11-01759.pdf",
+    "bytes": 42565179,
+    "sha256": "8f2e5adf529ce84ae1b276aa585518c4fb387df0bf020a31d69cc984d4bcf025",
+    "pages": 12,
+    "validation": "PDF header, pdfinfo/pdftotext parsing and first-page title/author match manually checked",
+    "title_verified": true,
+    "validated_on": "2026-09-25"
+  },
+  {
+    "key": "Aviagen2022",
+    "status": "saved",
+    "file": "papers/context/Aviagen2022.pdf",
+    "source_url": "https://aviagen.com/assets/Tech_Center/Ross_Broiler/Ross-BroilerNutritionSpecifications2022-EN.pdf",
+    "downloaded": "2026-09-25",
+    "bytes": 169901,
+    "sha256": "0302b2caed1266639211ea5cf8b8b20e7963e3bd9ce436fa1c8396ef648fe6eb",
+    "pages": 8,
+    "expected_title": "Ross Broiler Nutrition Specifications 2022",
+    "validation": "PDF header, pdfinfo/pdftotext parsing and first-page title/author match manually checked",
+    "attempts": [],
+    "title_verified": true,
+    "validated_on": "2026-09-25"
+  },
+  {
+    "key": "Aviagen2025",
+    "status": "saved",
+    "file": "papers/context/Aviagen2025.pdf",
+    "source_url": "https://aviagen.com/assets/Tech_Center/Ross_Broiler/Aviagen-ROSS-Broiler-Handbook-EN.pdf",
+    "downloaded": "2026-09-25",
+    "bytes": 17331407,
+    "sha256": "19077b256e843ff11d48c7a839a239a29649b7025e45fe8eceb4b108b99e5603",
+    "pages": 144,
+    "expected_title": "Ross Broiler Management Handbook",
+    "validation": "PDF header, pdfinfo/pdftotext parsing and first-page title/author match manually checked",
+    "attempts": [],
+    "title_verified": true,
+    "validated_on": "2026-09-25"
+  },
+  {
+    "key": "Gadde2017",
+    "status": "saved",
+    "file": "papers/context/Gadde2017.pdf",
+    "source_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/834725E86141F209DDDE7BBA11A98635/S1466252316000207a.pdf/alternatives-to-antibiotics-for-maximizing-growth-performance-and-feed-efficiency-in-poultry-a-review.pdf",
+    "downloaded": "2026-09-25",
+    "bytes": 573932,
+    "sha256": "1cbc8475daedff1e0d6576e2307d23234b89915e3be4a6d949a4c99ed79ded6a",
+    "pages": 20,
+    "expected_title": "Alternatives to antibiotics for maximizing growth performance and feed efficiency in poultry: a review",
+    "validation": "PDF header, pdfinfo/pdftotext parsing and first-page title/author match manually checked",
+    "attempts": [
+      {
+        "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/834725E86141F209DDDE7BBA11A98635/S1466252316000207a.pdf/alternatives-to-antibiotics-for-maximizing-growth-performance-and-feed-efficiency-in-poultry-a-review.pdf",
+        "status": "saved",
+        "final_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/834725E86141F209DDDE7BBA11A98635/S1466252316000207a.pdf/alternatives-to-antibiotics-for-maximizing-growth-performance-and-feed-efficiency-in-poultry-a-review.pdf"
+      }
+    ],
+    "title_verified": true,
+    "validated_on": "2026-09-25"
+  },
+  {
+    "key": "RavindranAbdollahi2021",
+    "status": "saved",
+    "expected_title": "Nutrition and Digestive Physiology of the Broiler Chick: State of the Art and Outlook",
+    "attempts": [
+      {
+        "url": "https://europepmc.org/articles/PMC8532940?pdf=render",
+        "status": "failed",
+        "error": "HTTP 403"
+      },
+      {
+        "url": "https://www.mdpi.com/2076-2615/11/10/2795/pdf",
+        "status": "failed",
+        "error": "Response does not begin with %PDF-"
+      },
+      {
+        "url": "https://mdpi-res.com/d_attachment/animals/animals-11-02795/article_deploy/animals-11-02795.pdf",
+        "status": "saved",
+        "final_url": "https://mdpi-res.com/d_attachment/animals/animals-11-02795/article_deploy/animals-11-02795.pdf"
+      }
+    ],
+    "downloaded": "2026-09-25",
+    "file": "papers/context/RavindranAbdollahi2021.pdf",
+    "source_url": "https://mdpi-res.com/d_attachment/animals/animals-11-02795/article_deploy/animals-11-02795.pdf",
+    "bytes": 359966,
+    "sha256": "866a731f987f86a53281d07d093be140f098e784d50b3a29d3a40304fae37ae9",
+    "pages": 23,
+    "validation": "PDF header, pdfinfo/pdftotext parsing and first-page title/author match manually checked",
+    "title_verified": true,
+    "validated_on": "2026-09-25"
+  },
+  {
+    "key": "Betuzzi2025",
+    "status": "saved",
+    "expected_title": "Pharmacognosy and Antioxidant Activity of Pruned Leaves from the Unexplored &lt;i&gt;Olea europaea&lt;/i&gt; L. 'Lavagnina' (Liguria, Italy).",
+    "attempts": [
+      {
+        "url": "https://europepmc.org/articles/PMC12430430?pdf=render",
+        "status": "failed",
+        "error": "HTTP 403"
+      },
+      {
+        "url": "https://www.mdpi.com/1420-3049/30/17/3605/pdf",
+        "status": "failed",
+        "error": "Response does not begin with %PDF-"
+      },
+      {
+        "url": "https://mdpi-res.com/d_attachment/molecules/molecules-30-03605/article_deploy/molecules-30-03605.pdf",
+        "status": "saved",
+        "final_url": "https://mdpi-res.com/d_attachment/molecules/molecules-30-03605/article_deploy/molecules-30-03605.pdf"
+      }
+    ],
+    "downloaded": "2026-09-25",
+    "file": "papers/context/Betuzzi2025.pdf",
+    "source_url": "https://mdpi-res.com/d_attachment/molecules/molecules-30-03605/article_deploy/molecules-30-03605.pdf",
+    "bytes": 2351045,
+    "sha256": "fe4d9cab6a2e9c63b8719c62306c3a79bf66be7ba8e26133973580cf5af630fd",
+    "pages": 26,
+    "validation": "PDF header, pdfinfo/pdftotext parsing and first-page title/author match manually checked",
+    "title_verified": true,
+    "validated_on": "2026-09-25"
+  },
+  {
+    "key": "Ismail2021",
+    "status": "failed",
+    "expected_title": "Olive leaf extract effect on cardiometabolic profile among adults with prehypertension and hypertension: a systematic review and meta-analysis",
+    "attempts": [
+      {
+        "url": "https://europepmc.org/articles/PMC8035902?pdf=render",
+        "status": "failed",
+        "error": "HTTP 403"
+      },
+      {
+        "url": "https://peerj.com/articles/11173.pdf",
+        "status": "failed",
+        "error": "HTTP 403"
+      }
+    ],
+    "downloaded": "2026-09-25"
+  },
+  {
+    "key": "Razmpoosh2022",
+    "status": "failed",
+    "expected_title": "The effects of olive leaf extract on cardiovascular risk factors in the general adult population: a systematic review and meta-analysis of randomized controlled trials",
+    "attempts": [
+      {
+        "url": "https://link.springer.com/content/pdf/10.1186/s13098-022-00920-y.pdf",
+        "status": "failed",
+        "error": "Response does not begin with %PDF-"
+      }
+    ],
+    "downloaded": "2026-09-25"
+  },
+  {
+    "key": "Gervasi2024",
+    "status": "saved",
+    "expected_title": "Use of Oleuropein and Hydroxytyrosol for Cancer Prevention and Treatment: Considerations about How Bioavailability and Metabolism Impact Their Adoption in Clinical Routine",
+    "attempts": [
+      {
+        "url": "https://europepmc.org/articles/PMC10968586?pdf=render",
+        "status": "failed",
+        "error": "HTTP 403"
+      },
+      {
+        "url": "https://www.mdpi.com/2227-9059/12/3/502/pdf",
+        "status": "failed",
+        "error": "Response does not begin with %PDF-"
+      },
+      {
+        "url": "https://mdpi-res.com/d_attachment/biomedicines/biomedicines-12-00502/article_deploy/biomedicines-12-00502.pdf",
+        "status": "saved",
+        "final_url": "https://mdpi-res.com/d_attachment/biomedicines/biomedicines-12-00502/article_deploy/biomedicines-12-00502.pdf"
+      }
+    ],
+    "downloaded": "2026-09-25",
+    "file": "papers/context/Gervasi2024.pdf",
+    "source_url": "https://mdpi-res.com/d_attachment/biomedicines/biomedicines-12-00502/article_deploy/biomedicines-12-00502.pdf",
+    "bytes": 1322017,
+    "sha256": "03e04952f64d3a2b36683585c7a1db96ca79aff211880c676daf30eacc619df4",
+    "pages": 36,
+    "validation": "PDF header, pdfinfo/pdftotext parsing and first-page title/author match manually checked",
+    "title_verified": true,
+    "validated_on": "2026-09-25"
+  },
+  {
+    "key": "DeBock2013",
+    "status": "saved",
+    "file": "papers/context/DeBock2013.pdf",
+    "source_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0057622&type=printable",
+    "downloaded": "2026-09-25",
+    "bytes": 445869,
+    "sha256": "281d5adb9fad0743c613d4f110bf0dda28800d5958fd83873be11d09f6986d26",
+    "pages": 8,
+    "expected_title": "Olive (Olea europaea L.) Leaf Polyphenols Improve Insulin Sensitivity in Middle-Aged Overweight Men: A Randomized, Placebo-Controlled, Crossover Trial",
+    "validation": "PDF header, pdfinfo/pdftotext parsing and first-page title/author match manually checked",
+    "attempts": [
+      {
+        "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0057622&type=printable",
+        "status": "saved",
+        "final_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0057622&type=printable"
+      }
+    ],
+    "title_verified": true,
+    "validated_on": "2026-09-25"
+  },
+  {
+    "key": "Gokkaya2026",
+    "status": "failed",
+    "expected_title": "Advances in bioactivity and health benefits of olive leaf: an updated review",
+    "attempts": [
+      {
+        "url": "https://link.springer.com/content/pdf/10.1007/s11101-026-10254-6.pdf",
+        "status": "failed",
+        "error": "Response does not begin with %PDF-"
+      }
+    ],
+    "downloaded": "2026-09-25"
+  },
+  {
+    "key": "Fernandez2024",
+    "status": "failed",
+    "expected_title": "Chemical and structural heterogeneity of olive leaves and their trichomes",
+    "attempts": [
+      {
+        "url": "https://europepmc.org/articles/PMC10960044?pdf=render",
+        "status": "failed",
+        "error": "HTTP 403"
+      },
+      {
+        "url": "https://www.nature.com/articles/s42003-024-06053-4.pdf",
+        "status": "failed",
+        "error": "Response does not begin with %PDF-"
+      }
+    ],
+    "downloaded": "2026-09-25"
+  },
+  {
+    "key": "Alvarez2026",
+    "status": "saved",
+    "file": "papers/context/Alvarez2026.pdf",
+    "source_url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1783046/pdf",
+    "downloaded": "2026-09-25",
+    "bytes": 5966776,
+    "sha256": "e531a36b676f0dcd345ff4e70635119f417a675e99535b6b7b83df71a991ffbc",
+    "pages": 12,
+    "expected_title": "Microscopic attributes of Olea europaea L. leaves and bioclimatology: the case of Galicia, western Iberian Peninsula",
+    "validation": "PDF header, pdfinfo/pdftotext parsing and first-page title/author match manually checked",
+    "attempts": [
+      {
+        "url": "https://europepmc.org/articles/PMC13144125?pdf=render",
+        "status": "failed",
+        "error": "HTTP 403"
+      },
+      {
+        "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1783046/pdf",
+        "status": "saved",
+        "final_url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1783046/pdf"
+      }
+    ],
+    "title_verified": true,
+    "validated_on": "2026-09-25"
+  },
+  {
+    "key": "Lachovicz2025",
+    "status": "saved",
+    "file": "papers/context/Lachovicz2025.pdf",
+    "source_url": "https://bibliotecadigital.ipb.pt/server/api/core/bitstreams/15799b10-c16f-4a35-b17c-7101d88fc172/content",
+    "downloaded": "2026-09-25",
+    "bytes": 1322964,
+    "sha256": "6ab3357bc1549046408cf7f5fb0b10eef1513b0ec5216a748680e881f57bb2f9",
+    "pages": 12,
+    "expected_title": "Efficacy of Olive Leaf Extract in Improving Blood Pressure in Pre‐Hypertensive and Hypertensive Individuals: A Systematic Review and Meta‐Analysis",
+    "validation": "PDF header, pdfinfo/pdftotext parsing and first-page title/author match manually checked",
+    "attempts": [
+      {
+        "url": "https://bibliotecadigital.ipb.pt/server/api/core/bitstreams/15799b10-c16f-4a35-b17c-7101d88fc172/content",
+        "status": "saved",
+        "final_url": "https://bibliotecadigital.unipb.pt/server/api/core/bitstreams/15799b10-c16f-4a35-b17c-7101d88fc172/content"
+      }
+    ],
+    "title_verified": true,
+    "validated_on": "2026-09-25"
+  },
+  {
+    "key": "Hill2014",
+    "status": "saved",
+    "file": "papers/context/Hill2014.pdf",
+    "source_url": "https://isappscience.org/wp-content/uploads/2018/11/hill-ISAPP-consensus-panel-probiotic-definition-141.pdf",
+    "downloaded": "2026-09-25",
+    "bytes": 895305,
+    "sha256": "f4ff9d139eeba77ba05d4baa11eb457d15f9032181625532de2650aefae3cfb8",
+    "pages": 9,
+    "expected_title": "Hill2014",
+    "validation": "PDF header, pdfinfo/pdftotext parsing and first-page title/author match manually checked",
+    "attempts": [
+      {
+        "url": "https://www.nature.com/articles/nrgastro.2014.66.pdf",
+        "status": "failed",
+        "error": "Response does not begin with %PDF-"
+      },
+      {
+        "url": "https://isappscience.org/wp-content/uploads/2018/11/hill-ISAPP-consensus-panel-probiotic-definition-141.pdf",
+        "status": "saved",
+        "final_url": "https://isappscience.org/wp-content/uploads/2018/11/hill-ISAPP-consensus-panel-probiotic-definition-141.pdf"
+      }
+    ],
+    "title_verified": true,
+    "validated_on": "2026-09-25"
+  },
+  {
+    "key": "Gibson2017",
+    "status": "failed",
+    "expected_title": "Gibson2017",
+    "attempts": [
+      {
+        "url": "https://www.nature.com/articles/nrgastro.2017.75.pdf",
+        "status": "failed",
+        "error": "Response does not begin with %PDF-"
+      }
+    ],
+    "downloaded": "2026-09-25"
+  },
+  {
+    "key": "Swanson2020",
+    "status": "failed",
+    "expected_title": "Swanson2020",
+    "attempts": [
+      {
+        "url": "https://www.nature.com/articles/s41575-020-0344-2.pdf",
+        "status": "failed",
+        "error": "Response does not begin with %PDF-"
+      }
+    ],
+    "downloaded": "2026-09-25"
+  }
+]

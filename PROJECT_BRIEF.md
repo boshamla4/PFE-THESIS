@@ -16,12 +16,12 @@ Dernière mise à jour : 25 septembre 2026.
 
 Branche de travail : `bibliography-superset-expansion`, PR brouillon #1.
 
-État compilé au 25 septembre 2026 :
-- **37 pages physiques** ;
-- 29 pages de corps bibliographique avant les références ;
-- références sur les pages 30 à 33 ;
-- **53 notices dans `bibliography/references.bib`** ;
-- 20 PDF et 7 textes intégraux XML archivés dans le noyau documentaire initial ; les références ajoutées pendant l'extension ne disposent pas toutes encore d'une copie locale.
+État livré au 25 septembre 2026 :
+- **38 pages physiques**, dont 28 pages de corps bibliographique et cinq pages de références (folios 29–33) ;
+- **61 références citées** dans `bibliography/references.bib` et le registre ;
+- **31 PDF** (29 articles et deux guides) et **16 XML** archivés ;
+- document pour relecture : `output/pdf/Mohamed_Hamida_Revue_bibliographique_2026-09-25.pdf` ;
+- protocole et résultats de l'expérimentation déjà réalisée à recevoir, sans les présumer.
 
 ## Périmètre bibliographique maître
 

@@ -1,16 +1,17 @@
-# Sources LaTeX
+# Sources LaTeX de la revue bibliographique
 
-`bibliographie_initiale.tex` produit le dossier de démarrage, et non la thèse finale. Il utilise la base commune `../bibliography/references.bib`.
+Source actuelle : `revue_bibliographique.tex`, avec dix chapitres dans `chapters/` et `../bibliography/references.bib`.
 
-Compilation depuis ce dossier avec MiKTeX :
+Depuis ce dossier :
 
-```powershell
-pdflatex -interaction=nonstopmode -halt-on-error bibliographie_initiale.tex
-bibtex bibliographie_initiale
-pdflatex -interaction=nonstopmode -halt-on-error bibliographie_initiale.tex
-pdflatex -interaction=nonstopmode -halt-on-error bibliographie_initiale.tex
+```text
+pdflatex -interaction=nonstopmode -halt-on-error revue_bibliographique.tex
+bibtex revue_bibliographique
+pdflatex -interaction=nonstopmode -halt-on-error revue_bibliographique.tex
+pdflatex -interaction=nonstopmode -halt-on-error revue_bibliographique.tex
+pdflatex -interaction=nonstopmode -halt-on-error revue_bibliographique.tex
 ```
 
-Le PDF vérifié est livré sous `../output/pdf/bibliographie_initiale.pdf`. Le fichier `.bib` peut être utilisé avec BibTeX ou BibLaTeX ; le dossier initial utilise `natbib` et `abbrvnat`. Le style final sera adapté aux consignes ENMV actuelles.
+Livraison vérifiée : `../output/pdf/revue_bibliographique.pdf`. Le format utilise pdfLaTeX, natbib/abbrvnat, babel français et les polices Latin Modern. Les consignes ENMV définitives pourront nécessiter une adaptation avant dépôt.
 
-La base est générée par `node ../bibliography/build_library.mjs`. Les métadonnées originales, le registre de lecture et le manifeste des téléchargements sont conservés à côté de la base. Ne pas assimiler ce premier dossier à une synthèse exhaustive ou à des résultats de Mohamed.
+`bibliographie_initiale.tex` reste un document historique et n'est pas le manuscrit actuel. Ne pas remplacer la revue par sa compilation.
