@@ -1,0 +1,29 @@
+name: Compile bibliography
+
+on:
+  push:
+    branches:
+      - bibliography-superset-expansion
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Compile LaTeX
+        uses: xu-cheng/latex-action@v3
+        with:
+          root_file: revue_bibliographique.tex
+          working_directory: thesis
+          latexmk_use_xelatex: false
+          args: -pdf -interaction=nonstopmode -file-line-error
+
+      - name: Upload compiled PDF
+        uses: actions/upload-artifact@v4
+        with:
+          name: revue-bibliographique-expanded
+          path: thesis/revue_bibliographique.pdf
+          if-no-files-found: error
