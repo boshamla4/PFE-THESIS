@@ -4,15 +4,17 @@ Dépôt GitHub privé : [PFE THESIS](https://github.com/boshamla4/PFE-THESIS). L
 
 ## Version étendue actuellement compilée
 
-- Manuscrit bibliographique compilé : **37 pages physiques**.
-- Répartition : 1 page de titre + 3 pages liminaires (table des matières et abréviations) + 33 pages numérotées en arabe.
+- Manuscrit bibliographique compilé : **39 pages physiques**.
+- Répartition : 1 page de titre + 4 pages liminaires (table des matières détaillée sur 3 pages et abréviations sur 1 page) + 34 pages numérotées en arabe.
 - Corps de la revue avant références : pages 1 à 29.
-- Références bibliographiques : pages 30 à 33.
-- Bibliographie BibTeX : **53 références** dans cette version.
+- Références bibliographiques : pages 30 à 34.
+- Bibliographie BibTeX : **58 références** dans cette version.
 - Noyau documentaire initial conservé : 37 références sélectionnées, 20 PDF d'articles et 7 textes intégraux XML.
 - Compilation automatisée par GitHub Actions sur la branche de travail.
-- Le PDF final de contrôle a été rendu en images et **les 37 pages ont été vérifiées visuellement** le 25 septembre 2026. Aucun chevauchement, texte coupé ou défaut de mise en page bloquant n'a été observé.
+- Le PDF final de contrôle a été rendu en images et **les 39 pages ont été vérifiées visuellement** le 25 septembre 2026. Aucun chevauchement, texte coupé ou défaut de mise en page bloquant n'a été observé.
 - Un doublon de paragraphe dans la partie formulation a été détecté lors du contrôle visuel puis supprimé.
+- La table des matières affiche désormais aussi les sous-sous-sections, afin que les rappels anatomiques, les phases de rationnement et les facteurs d'extraction soient visibles explicitement.
+- La compilation de contrôle a été stabilisée avec un passage LaTeX supplémentaire : **aucun avertissement LaTeX n'est présent dans le journal final filtré**.
 
 ## Extension réalisée
 
@@ -37,7 +39,7 @@ La redondance entre le chapitre général sur le poulet et le chapitre spéciali
 ## Sources d'inspiration inspectées
 
 - Thèse Heni Nabil 2012/2013 : partie bibliographique et partie expérimentale inspectées au niveau du contenu, pas seulement de la table des matières.
-- Thèse Ben Brahim Amine 2018 : structure, thèmes bibliographiques et critères expérimentaux recoupés avec les informations déjà archivées dans le dépôt et les documents disponibles.
+- Thèse Ben Brahim Amine 2018 : PDF de 89 pages extrait et inspecté directement au niveau du contenu ; structure, thèmes bibliographiques, méthodes, résultats et critères expérimentaux ont été recoupés chapitre par chapitre.
 - Cinq photographies de tables des matières : transcription propre dans `source d'inspiration/tables_matieres_photos_2026.md` et cinq reconstructions vectorielles SVG dans `source d'inspiration/tables_matieres_photos_2026/`.
 - Matrice de fusion : `MATRICE_COUVERTURE_FUSION.md`.
 - Rapport d'inspection détaillée : `INSPECTION_SOURCES_FUSION.md`.
